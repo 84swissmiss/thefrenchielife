@@ -105,7 +105,7 @@ Here's what a typical day looks like:
 - **Morning:** Monoprotein grain-free kibble + Apoquel (every other day)
 - **After walks:** Quick paw wipe to remove pollen and irritants
 - **Evening:** Same food, sometimes with a monoprotein wet food topper
-- **Weekly:** Ear cleaning with a gentle, vet-approved solution
+- **Weekly:** Ear cleaning with a gentle, vet-approved solution (we use [Virbac Epi-Otic](https://www.amazon.de/dp/B0056EAKUA?tag=focushack-21) — it's the gold standard for routine ear maintenance)
 - **Bi-weekly:** Bath with a hypoallergenic, fragrance-free shampoo
 - **Monthly:** Vet check-in (now down to quarterly since he's stable)
 
