@@ -1,7 +1,7 @@
 ---
 title: "Best Supplements for French Bulldogs: Joint, Skin & Digestive (2026)"
 date: 2026-02-22
-description: "Top supplements for French Bulldogs — joint support, skin health, and digestive aids. Vet-informed recommendations."
+description: "Top supplements for French Bulldogs, joint support, skin health, and digestive aids. Vet-informed recommendations."
 tags: ["french bulldog", "supplements", "joint health", "skin care"]
 categories: ["reviews"]
 ShowToc: true
@@ -9,10 +9,10 @@ TocOpen: false
 cover:
   image: "/images/george/web/george-11.jpg"
   alt: "George the French Bulldog on the couch with a dental chew"
-  caption: "George with his dental chew — supplements are part of his daily routine"
+  caption: "George with his dental chew, supplements are part of his daily routine"
 ---
 
-French Bulldogs are wonderful dogs with a laundry list of health predispositions. Joint issues, skin problems, digestive sensitivity — these aren't possibilities, they're probabilities. The right supplements can make a meaningful difference in your Frenchie's quality of life, especially as they age.
+French Bulldogs are wonderful dogs with a laundry list of health predispositions. Joint issues, skin problems, digestive sensitivity, these aren't possibilities, they're probabilities. The right supplements can make a meaningful difference in your Frenchie's quality of life, especially as they age.
 
 George started joint supplements at age 3 (on our vet's recommendation) and skin supplements at age 2 (when his allergies first appeared). The difference was noticeable within weeks.
 
@@ -22,7 +22,7 @@ Here's a breakdown of the best supplements for French Bulldogs, organized by wha
 
 French Bulldogs are prone to hip dysplasia, patellar luxation, and IVDD. Joint supplements with glucosamine, chondroitin, and MSM help maintain cartilage, reduce inflammation, and support mobility.
 
-### 1. YuMOVE Joint Supplement for Dogs — Best Overall Joint
+### 1. YuMOVE Joint Supplement for Dogs. Best Overall Joint
 
 YuMOVE is the UK's #1 vet-recommended joint supplement, and it's earned that reputation. The unique ActivEase® Green Lipped Mussel extract provides omega-3 fatty acids that specifically target joint stiffness, while glucosamine and chondroitin support cartilage repair.
 
@@ -31,7 +31,7 @@ YuMOVE is the UK's #1 vet-recommended joint supplement, and it's earned that rep
 **Why it works for Frenchies:**
 - Targets stiff joints and supports mobility
 - Anti-inflammatory omega-3s from Green Lipped Mussel
-- Tasty tablet form — George eats them like treats
+- Tasty tablet form. George eats them like treats
 - Visible results in 4-6 weeks
 - Available in different strengths (Adult, Senior, PLUS)
 
@@ -43,7 +43,7 @@ YuMOVE is the UK's #1 vet-recommended joint supplement, and it's earned that rep
 
 ---
 
-### 2. Seraquin (Boehringer Ingelheim) — Best Vet-Prescribed Joint
+### 2. Seraquin (Boehringer Ingelheim, Best Vet-Prescribed Joint
 
 If your vet recommends a joint supplement, there's a good chance they'll suggest Seraquin. It combines chondroitin sulfate, glucosamine, and turmeric extract (curcumin) for comprehensive joint support.
 
@@ -65,9 +65,9 @@ If your vet recommends a joint supplement, there's a good chance they'll suggest
 
 ## Skin & Coat Supplements
 
-Frenchies are notorious for skin issues — allergies, hot spots, dry skin, and fold dermatitis. Omega fatty acid supplements support the skin barrier and reduce inflammatory reactions.
+Frenchies are notorious for skin issues, allergies, hot spots, dry skin, and fold dermatitis. Omega fatty acid supplements support the skin barrier and reduce inflammatory reactions.
 
-### 3. Grizzly Omega Health Salmon Oil — Best Skin & Coat
+### 3. Grizzly Omega Health Salmon Oil. Best Skin & Coat
 
 Pure wild Alaskan salmon oil is one of the simplest and most effective supplements you can give a Frenchie with skin issues. The omega-3 (EPA/DHA) and omega-6 fatty acids support the skin barrier, reduce itching, and improve coat quality.
 
@@ -75,7 +75,7 @@ Pure wild Alaskan salmon oil is one of the simplest and most effective supplemen
 
 **Why it works for Frenchies:**
 - Pure, single-ingredient supplement
-- Pump bottle makes dosing easy — just add to food
+- Pump bottle makes dosing easy, just add to food
 - Reduces itchy skin and hot spots
 - Improves coat shine and texture
 - Also supports joint and heart health
@@ -89,7 +89,7 @@ Pure wild Alaskan salmon oil is one of the simplest and most effective supplemen
 
 ---
 
-### 4. YuDERM Itching Dog — Best for Allergy-Related Skin
+### 4. YuDERM Itching Dog. Best for Allergy-Related Skin
 
 From the same makers as YuMOVE, YuDERM is specifically designed for dogs with itchy, irritated skin. The formula targets the skin barrier with a combination of omega-3, omega-6, and vitamin E.
 
@@ -98,7 +98,7 @@ From the same makers as YuMOVE, YuDERM is specifically designed for dogs with it
 **Why it works for Frenchies:**
 - Targets itchy, flaky, irritated skin
 - Evening primrose oil is excellent for canine allergic dermatitis
-- Liquid form — easy to add to food
+- Liquid form, easy to add to food
 - Results visible in 3-6 weeks
 - Supports skin from the inside out
 
@@ -114,7 +114,7 @@ From the same makers as YuMOVE, YuDERM is specifically designed for dogs with it
 
 The Frenchie digestive system is... temperamental. Gas, soft stools, and food sensitivities are extremely common. Probiotics and digestive enzymes can dramatically improve gut health.
 
-### 5. Purina Pro Plan FortiFlora — Best Probiotic
+### 5. Purina Pro Plan FortiFlora. Best Probiotic
 
 FortiFlora is the probiotic most commonly recommended by vets for dogs with digestive issues. It contains a guaranteed level of live microorganisms (Enterococcus faecium SF68) that support intestinal health and balance gut flora.
 
@@ -122,7 +122,7 @@ FortiFlora is the probiotic most commonly recommended by vets for dogs with dige
 
 **Why it works for Frenchies:**
 - Vet-recommended probiotic
-- Sprinkle-on sachets — easy to add to any food
+- Sprinkle-on sachets, easy to add to any food
 - Helps with gas, loose stools, and diarrhea
 - Supports immune system health
 - Dogs love the taste (it's essentially a flavor enhancer too)
@@ -136,7 +136,7 @@ FortiFlora is the probiotic most commonly recommended by vets for dogs with dige
 
 ---
 
-### 6. Protexin Pro-Kolin+ — Best for Acute Digestive Issues
+### 6. Protexin Pro-Kolin+. Best for Acute Digestive Issues
 
 When George has an upset stomach (usually from eating something he shouldn't have), Pro-Kolin+ is my go-to. It's a paste with prebiotics, probiotics, and kaolin that firms up stools and calms the digestive tract fast.
 
@@ -157,7 +157,7 @@ When George has an upset stomach (usually from eating something he shouldn't hav
 
 ---
 
-### 7. Zesty Paws Multivitamin Bites — Best All-in-One
+### 7. Zesty Paws Multivitamin Bites. Best All-in-One
 
 If you want a single supplement that covers joints, skin, digestion, and general health, Zesty Paws Multivitamin Bites are the most comprehensive option. They combine glucosamine, omega oils, probiotics, and vitamins in a chewable treat.
 
@@ -165,7 +165,7 @@ If you want a single supplement that covers joints, skin, digestion, and general
 
 **Why it works for Frenchies:**
 - Covers joint, skin, digestive, and immune health
-- Chewable treat form — no pilling struggles
+- Chewable treat form, no pilling struggles
 - Good ingredient quality for a multivitamin
 - Convenient daily routine (one chew)
 - Contains biotin for coat health
@@ -203,10 +203,10 @@ If you want a single supplement that covers joints, skin, digestion, and general
 > **Always consult your vet before starting supplements**, especially if your Frenchie is on medication. Some supplements can interact with drugs or mask symptoms of underlying conditions that need treatment.
 
 - Supplements are not replacements for veterinary care
-- Quality matters — buy from reputable brands with clear ingredient lists
-- Give supplements time to work — most need 4-6 weeks for visible results
+- Quality matters, buy from reputable brands with clear ingredient lists
+- Give supplements time to work, most need 4-6 weeks for visible results
 - Store as directed (some probiotics need refrigeration)
-- Track changes — keep a simple log of your Frenchie's symptoms so you can measure improvement
+- Track changes, keep a simple log of your Frenchie's symptoms so you can measure improvement
 
 ## George's Daily Supplement Routine
 

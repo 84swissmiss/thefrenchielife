@@ -9,7 +9,7 @@ TocOpen: false
 cover:
   image: "/images/george/web/george-10.jpg"
   alt: "Puppy George the French Bulldog on paving stones with blue eyes"
-  caption: "George as a puppy — those blue eyes didn't last but the cuteness did"
+  caption: "George as a puppy, those blue eyes didn't last but the cuteness did"
 ---
 
 Bringing home a French Bulldog puppy is one of the most exciting things you'll ever do. It's also slightly terrifying, because these little potatoes come with more specific needs than most people expect. 
@@ -19,25 +19,25 @@ When I brought George home, I thought I was prepared. I was not. I spent the fir
 This guide is everything I wish someone had told me before day one. Consider it your complete French Bulldog puppy shopping list, organized by priority.
 
 ![Puppy George sleeping in a black pet carrier](/images/george/web/george-14.jpg)
-*George's first carrier — essential for bringing your puppy home safely*
+*George's first carrier, essential for bringing your puppy home safely*
 
 ## The Essentials (Get These Before Puppy Comes Home)
 
 ![Puppy George on the couch in a yellow raincoat with a pig toy](/images/george/web/george-19.jpg)
-*George in his first raincoat — yes, puppies need weather gear too*
+*George in his first raincoat, yes, puppies need weather gear too*
 
 ### Food & Water
 
 **Puppy food:** Start with whatever the breeder was feeding. Transition gradually to your chosen brand over 7-10 days. For Frenchie-specific recommendations, see our [Best Food for French Bulldogs](/reviews/best-food-for-french-bulldogs/) guide.
 
-- [Royal Canin French Bulldog Puppy](https://www.amazon.de/s?k=Royal+Canin+French+Bulldog+Puppy&tag=focushack-21) — breed-specific kibble shape and nutrition
-- Small kibble matters — Frenchie puppies have flat faces and tiny mouths
+- [Royal Canin French Bulldog Puppy](https://www.amazon.de/s?k=Royal+Canin+French+Bulldog+Puppy&tag=focushack-21, breed-specific kibble shape and nutrition
+- Small kibble matters. Frenchie puppies have flat faces and tiny mouths
 
 **Slow feeder bowl:** Non-negotiable for Frenchies. They inhale food, causing bloating, gas, and vomiting. A slow feeder extends mealtime from 30 seconds to 5-10 minutes.
 
 👉 [Slow feeder bowls on Amazon.de](https://www.amazon.de/s?k=slow+feeder+dog+bowl+small&tag=focushack-21)
 
-**Water bowl:** Stainless steel or ceramic (not plastic — plastic can cause chin acne in Frenchies). Low-profile design so their flat face can reach the water easily.
+**Water bowl:** Stainless steel or ceramic (not plastic. Plastic can cause chin acne in Frenchies). Low-profile design so their flat face can reach the water easily.
 
 👉 [Stainless steel dog bowls on Amazon.de](https://www.amazon.de/s?k=stainless+steel+dog+bowl+small&tag=focushack-21)
 
@@ -45,18 +45,18 @@ This guide is everything I wish someone had told me before day one. Consider it 
 
 ### Sleeping
 
-**Puppy bed:** Something washable, affordable, and cozy. Don't invest in an expensive orthopedic bed yet — puppies destroy things, and they'll outgrow it.
+**Puppy bed:** Something washable, affordable, and cozy. Don't invest in an expensive orthopedic bed yet. Puppies destroy things, and they'll outgrow it.
 
 - A simple bolster bed with a washable cover is perfect
 - Size: Small/Medium for a Frenchie puppy
-- Place it in your bedroom initially — Frenchie puppies DO NOT do well alone at night
+- Place it in your bedroom initially. Frenchie puppies DO NOT do well alone at night
 
 👉 [Puppy beds on Amazon.de](https://www.amazon.de/s?k=puppy+bed+small+washable&tag=focushack-21)
 
 **Crate:** Crate training is highly recommended for Frenchie puppies. It gives them a safe den, helps with housetraining, and prevents destructive chewing when unsupervised.
 
 - Size: Medium (they need room to stand, turn, and lie down, but not so much that they can use one end as a toilet)
-- Wire crates with a divider panel are ideal — you can adjust the space as they grow
+- Wire crates with a divider panel are ideal, you can adjust the space as they grow
 - Add a soft blanket and a cover to make it den-like
 
 👉 [Dog crates with divider on Amazon.de](https://www.amazon.de/s?k=dog+crate+medium+divider&tag=focushack-21)
@@ -67,14 +67,14 @@ This guide is everything I wish someone had told me before day one. Consider it 
 
 **Harness:** Always a harness, never a collar, for walking. Frenchie puppies pull, and any neck pressure is dangerous for brachycephalic breeds.
 
-- Start with an adjustable puppy harness — they grow fast
+- Start with an adjustable puppy harness, they grow fast
 - Graduate to a proper harness once they reach adult size (around 9-12 months)
 
 👉 [Puppy harness adjustable on Amazon.de](https://www.amazon.de/s?k=puppy+harness+adjustable+small&tag=focushack-21)
 
 For adult harness recommendations, see our [Best Harnesses for French Bulldogs](/reviews/best-harnesses-for-french-bulldogs/) guide.
 
-**Leash:** A standard 1.5-2m leash is best. Avoid retractable leashes — they teach puppies to pull and don't give you enough control.
+**Leash:** A standard 1.5-2m leash is best. Avoid retractable leashes. They teach puppies to pull and don't give you enough control.
 
 **ID tag:** Even before microchipping, put an ID tag on their collar with your phone number. Puppies are escape artists.
 
@@ -86,7 +86,7 @@ For adult harness recommendations, see our [Best Harnesses for French Bulldogs](
 
 ### Safety & Puppy-Proofing
 
-**Baby gates:** Block off stairs and rooms you don't want the puppy in. Frenchie puppies should avoid stairs — their joints are developing and their clumsy build makes falls likely.
+**Baby gates:** Block off stairs and rooms you don't want the puppy in. Frenchie puppies should avoid stairs. Their joints are developing and their clumsy build makes falls likely.
 
 👉 [Baby gates for dogs on Amazon.de](https://www.amazon.de/s?k=baby+gate+dog+stairs&tag=focushack-21)
 
@@ -131,7 +131,7 @@ For a complete wrinkle care routine, see our [How to Clean French Bulldog Wrinkl
 
 **Puppy shampoo:** Gentle, fragrance-free, designed for sensitive skin. See our [Best Shampoos for French Bulldogs](/reviews/best-french-bulldog-shampoo/) guide.
 
-**Nail clippers:** Start trimming nails early so they get used to it. Guillotine-style or grinder — whichever your puppy tolerates better.
+**Nail clippers:** Start trimming nails early so they get used to it. Guillotine-style or grinder, whichever your puppy tolerates better.
 
 👉 [Dog nail clippers on Amazon.de](https://www.amazon.de/s?k=dog+nail+clippers+small&tag=focushack-21)
 
@@ -154,9 +154,9 @@ For a complete wrinkle care routine, see our [How to Clean French Bulldog Wrinkl
 **Chew toys:** Frenchie puppies need to chew. Give them appropriate options or they'll chew your furniture.
 
 Essential starter toys:
-- **KONG Puppy** (softer rubber than the Classic) — stuff with puppy food or peanut butter
-- **Nylabone Puppy Chew** — textured for teething relief
-- **Rope toy** (for supervised tug only — don't leave unattended)
+- **KONG Puppy** (softer rubber than the Classic). Stuff with puppy food or peanut butter.
+- **Nylabone Puppy Chew.** Textured for teething relief
+- **Rope toy** (for supervised tug only, don't leave unattended)
 
 👉 [KONG Puppy toy on Amazon.de](https://www.amazon.de/s?k=KONG+Puppy+toy+small&tag=focushack-21)
 
@@ -251,20 +251,20 @@ This doesn't include the puppy itself (which, for a well-bred Frenchie from a re
 
 The first night is the hardest. Your new Frenchie puppy has just left their mother and siblings, and they will cry. Here's how to survive it:
 
-1. **Put the crate next to your bed** — Your presence is comforting. They can hear and smell you.
-2. **Include a warm water bottle** (wrapped in a towel) — Mimics body heat of littermates.
+1. **Put the crate next to your bed.** Your presence is comforting. They can hear and smell you.
+2. **Include a warm water bottle** (wrapped in a towel). Mimics body heat of littermates.
 3. **A ticking clock** nearby can be soothing (mimics heartbeat).
-4. **Don't give in to crying** by taking them into your bed — this sets a precedent. But DO comfort them with a calm voice.
+4. **Don't give in to crying** by taking them into your bed. This sets a precedent. But DO comfort them with a calm voice.
 5. **Take them out for a bathroom break** once during the night (puppies can't hold it all night).
 6. **Expect 2-3 rough nights.** It gets better, I promise.
 
 ## Common Mistakes New Frenchie Owners Make
 
-1. **Skipping pet insurance** — French Bulldogs are expensive to treat. One surgery can cost €3,000-8,000.
-2. **Using a collar for walks** — Always a harness for brachycephalic breeds.
-3. **Over-exercising** — Puppies need rest. The rule of thumb is 5 minutes of exercise per month of age, twice a day.
-4. **Ignoring wrinkle care** — Start cleaning folds from day one. Infections are easier to prevent than treat.
-5. **Not socializing** — The socialization window (3-14 weeks) is critical. Expose your puppy to different people, sounds, surfaces, and experiences.
+1. **Skipping pet insurance.** French Bulldogs are expensive to treat. One surgery can cost €3,000-8,000.
+2. **Using a collar for walks.** Always a harness for brachycephalic breeds.
+3. **Over-exercising.** Puppies need rest. The rule of thumb is 5 minutes of exercise per month of age, twice a day.
+4. **Ignoring wrinkle care.** Start cleaning folds from day one. Infections are easier to prevent than treat.
+5. **Not socializing.** The socialization window (3-14 weeks) is critical. Expose your puppy to different people, sounds, surfaces, and experiences.
 
 ---
 

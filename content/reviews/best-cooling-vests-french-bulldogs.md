@@ -14,26 +14,26 @@ cover:
 
 If there's one thing every French Bulldog owner learns fast, it's that Frenchies and heat don't mix. George starts panting if the temperature hits 23°C, and anything above 28°C is a genuine health risk.
 
-French Bulldogs are brachycephalic — their shortened airways make it much harder for them to cool themselves through panting (which is how dogs regulate body temperature). This makes them extremely vulnerable to heatstroke, which can be fatal.
+French Bulldogs are brachycephalic, their shortened airways make it much harder for them to cool themselves through panting (which is how dogs regulate body temperature). This makes them extremely vulnerable to heatstroke, which can be fatal.
 
 A cooling vest won't replace shade, water, and air conditioning, but it's an essential layer of protection for walks, outdoor time, and travel in warm weather. Here are the 5 best cooling vests and bandanas I've tested on George.
 
 ![George at an alpine lake wearing his turquoise harness](/images/george/web/george-25.jpg)
-*George staying cool at the alpine lake — cooling vests are essential for days like this*
+*George staying cool at the alpine lake, cooling vests are essential for days like this*
 
 ## How Cooling Vests Work
 
 Most dog cooling vests use one of three technologies:
 
-1. **Evaporative cooling** — You soak the vest in water, wring it out, and the evaporation draws heat away from your dog's body. Works like a wet towel, but more effective and controlled. Best for dry climates.
-2. **Phase-change cooling** — Uses special materials that absorb heat at a specific temperature. You "charge" them in the freezer or cold water, and they maintain a cool temperature for hours. Works in any humidity.
-3. **Reflective cooling** — Reflects sunlight away rather than actively cooling. Less effective alone, often combined with evaporative tech.
+1. **Evaporative cooling.** You soak the vest in water, wring it out, and the evaporation draws heat away from your dog's body. Works like a wet towel, but more effective and controlled. Best for dry climates.
+2. **Phase-change cooling.** Uses special materials that absorb heat at a specific temperature. You "charge" them in the freezer or cold water, and they maintain a cool temperature for hours. Works in any humidity.
+3. **Reflective cooling.** Reflects sunlight away rather than actively cooling. Less effective alone, often combined with evaporative tech.
 
 For French Bulldogs, **evaporative and phase-change cooling** are the most effective options.
 
 ## The 5 Best Cooling Vests for French Bulldogs
 
-### 1. Ruffwear Swamp Cooler — Best Overall
+### 1. Ruffwear Swamp Cooler. Best Overall
 
 The Ruffwear Swamp Cooler is the cooling vest I trust most with George's safety. It uses a three-layer evaporative cooling system: the outer layer reflects heat, the middle layer stores water for evaporation, and the inner layer wicks heat from your dog's body.
 
@@ -55,12 +55,12 @@ The Ruffwear Swamp Cooler is the cooling vest I trust most with George's safety.
 
 ---
 
-### 2. Hurtta Cooling Vest — Best for Extended Outdoor Time
+### 2. Hurtta Cooling Vest. Best for Extended Outdoor Time
 
 Finnish brand Hurtta knows extreme weather. Their cooling vest holds more water than most competitors, which means longer cooling times between re-wetting. The fit is excellent for barrel-chested breeds like French Bulldogs.
 
 **Why it's great for Frenchies:**
-- High water absorption — longer cooling periods
+- High water absorption, longer cooling periods
 - Excellent chest and back coverage
 - Reflective piping for visibility
 - Secure fit with adjustable straps
@@ -76,7 +76,7 @@ Finnish brand Hurtta knows extreme weather. Their cooling vest holds more water 
 
 ---
 
-### 3. Trixie Cooling Vest — Best Budget Option
+### 3. Trixie Cooling Vest. Best Budget Option
 
 The Trixie cooling vest does the basics well at a fraction of the price. Soak it, wring it, put it on. The evaporative cooling isn't as sophisticated as the Ruffwear or Hurtta, but it absolutely works for short walks and garden time.
 
@@ -98,12 +98,12 @@ The Trixie cooling vest does the basics well at a fraction of the price. Soak it
 
 ---
 
-### 4. Alcott Mariner Cooling Bandana — Best Cooling Bandana
+### 4. Alcott Mariner Cooling Bandana. Best Cooling Bandana
 
 Sometimes you don't need a full vest. For quick outings, car rides, or mild warm days, a cooling bandana around the neck is enough. The Alcott Mariner uses evaporative cooling in a simple bandana format.
 
 **Why it's great for Frenchies:**
-- Lightweight — doesn't add bulk
+- Lightweight, doesn't add bulk
 - Easy to put on and take off
 - Cools the neck area (major blood vessels close to surface)
 - Can be used in addition to a cooling vest
@@ -119,7 +119,7 @@ Sometimes you don't need a full vest. For quick outings, car rides, or mild warm
 
 ---
 
-### 5. CoolPets Cooling Mat + Vest Combo — Best Phase-Change Option
+### 5. CoolPets Cooling Mat + Vest Combo. Best Phase-Change Option
 
 For humid climates where evaporative cooling doesn't work well, phase-change technology is the answer. The CoolPets system uses special polymer crystals that absorb and hold cold temperature from the fridge or cold water.
 
@@ -154,25 +154,25 @@ For humid climates where evaporative cooling doesn't work well, phase-change tec
 
 A cooling vest is recommended whenever:
 
-- **Temperature exceeds 22-24°C** — This is lower than you'd think. Frenchies start struggling well before most dogs.
-- **Walking on pavement** — Hot pavement radiates heat upward, heating your Frenchie from below AND above. Test with the back of your hand: if it's too hot for you, it's too hot for your dog.
-- **Traveling in a car** — Even with AC, cars can have hot spots. A cooling vest provides extra safety.
-- **Outdoor events** — Markets, parks, outdoor cafes — anywhere your Frenchie might be in warmth for extended periods.
-- **After exercise** — Even short play sessions can overheat a Frenchie. Cool them down immediately.
+- **Temperature exceeds 22-24°C.** This is lower than you'd think. Frenchies start struggling well before most dogs.
+- **Walking on pavement.** Hot pavement radiates heat upward, heating your Frenchie from below AND above. Test with the back of your hand: if it's too hot for you, it's too hot for your dog.
+- **Traveling in a car.** Even with AC, cars can have hot spots. A cooling vest provides extra safety.
+- **Outdoor events.** Markets, parks, outdoor cafes, anywhere your Frenchie might be in warmth for extended periods.
+- **After exercise.** Even short play sessions can overheat a Frenchie. Cool them down immediately.
 
 ## Signs Your French Bulldog Is Overheating
 
-Know these warning signs — they can escalate to heatstroke fast:
+Know these warning signs, they can escalate to heatstroke fast:
 
-1. **Excessive panting** — Heavier and faster than normal
-2. **Drooling** — Thick, ropy drool
-3. **Bright red tongue and gums** — Or alternatively, very pale gums
-4. **Glazed eyes** — Distant, unfocused look
-5. **Stumbling or weakness** — Loss of coordination
-6. **Vomiting or diarrhea** — Especially if sudden
-7. **Collapse** — Medical emergency. Get to a vet immediately.
+1. **Excessive panting.** Heavier and faster than normal
+2. **Drooling.** Thick, ropy drool
+3. **Bright red tongue and gums.** Or alternatively, very pale gums
+4. **Glazed eyes.** Distant, unfocused look
+5. **Stumbling or weakness.** Loss of coordination
+6. **Vomiting or diarrhea.** Especially if sudden
+7. **Collapse.** Medical emergency. Get to a vet immediately.
 
-> **Emergency cooling:** If your Frenchie shows signs of heatstroke, move them to shade immediately, apply cool (NOT ice cold) water to their paws, belly, and ears, and get to a vet as fast as possible. Do NOT use ice water — it causes blood vessels to constrict, actually trapping heat inside.
+> **Emergency cooling:** If your Frenchie shows signs of heatstroke, move them to shade immediately, apply cold water to their paws, belly, and ears, and get to a vet as fast as possible. Recent veterinary research confirms cold water immersion is the most effective cooling method — the old advice to avoid ice water has been debunked.
 
 ## My Pick for Most Frenchie Owners
 

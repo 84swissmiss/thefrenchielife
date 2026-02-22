@@ -9,7 +9,7 @@ TocOpen: false
 cover:
   image: "/images/george/web/george-39.jpg"
   alt: "George the French Bulldog peeking out from under a fleece blanket"
-  caption: "George in his natural habitat — under a blanket"
+  caption: "George in his natural habitat, under a blanket"
 ---
 
 French Bulldogs spend an impressive amount of their lives sleeping. George clocks about 14 hours a day, which means his bed is arguably the most important piece of gear he owns. And yet, most "best dog bed" lists don't account for the specific needs of Frenchies.
@@ -19,25 +19,25 @@ Here's the thing: French Bulldogs are prone to joint problems (hip dysplasia, pa
 After testing more beds than I'd like to admit (George thinks he's a mattress reviewer), here are the 7 that actually work for French Bulldogs.
 
 ![Puppy George sleeping in a Trixie pet bed with a pink pig toy](/images/george/web/george-16.jpg)
-*George as a puppy — already a professional sleeper*
+*George as a puppy, already a professional sleeper*
 
 ## What Makes a Good French Bulldog Bed?
 
-- **Orthopedic support** — Frenchies are prone to joint issues. Memory foam or orthopedic foam helps distribute weight and reduce pressure on joints.
-- **Cooling properties** — Brachycephalic breeds overheat easily. Gel-infused foam, elevated designs, or cooling covers help regulate temperature.
-- **Bolster/raised edges** — Most Frenchies love sleeping with their head propped up. Bolster beds support this and can actually help with breathing (slightly elevated head position opens airways).
-- **Washable cover** — Frenchies drool, shed, and have skin issues. Machine-washable covers are non-negotiable.
-- **Right size** — Too big and they feel insecure. Too small and they overhang. Medium size (60-80cm) is usually perfect.
+- **Orthopedic support.** Frenchies are prone to joint issues. Memory foam or orthopedic foam helps distribute weight and reduce pressure on joints.
+- **Cooling properties.** Brachycephalic breeds overheat easily. Gel-infused foam, elevated designs, or cooling covers help regulate temperature.
+- **Bolster/raised edges.** Most Frenchies love sleeping with their head propped up. Bolster beds support this and can actually help with breathing (slightly elevated head position opens airways).
+- **Washable cover.** Frenchies drool, shed, and have skin issues. Machine-washable covers are non-negotiable.
+- **Right size.** Too big and they feel insecure. Too small and they overhang. Medium size (60-80cm) is usually perfect.
 
 ## The 7 Best French Bulldog Beds
 
-### 1. Bedsure Orthopedic Dog Bed with Bolster — Best Overall
+### 1. Bedsure Orthopedic Dog Bed with Bolster. Best Overall
 
-This is George's daily driver and has been for over a year. The egg-crate orthopedic foam base provides genuine joint support, while the bolster edges give him something to rest his head on. The nonskid bottom is a nice touch — it stays put on hardwood floors.
+This is George's daily driver and has been for over a year. The egg-crate orthopedic foam base provides genuine joint support, while the bolster edges give him something to rest his head on. The nonskid bottom is a nice touch, it stays put on hardwood floors.
 
 **Why it's great for Frenchies:**
-- Egg-crate foam + orthopedic base — real joint support
-- Three-sided bolster — perfect for Frenchie sleeping positions
+- Egg-crate foam + orthopedic base, real joint support
+- Three-sided bolster, perfect for Frenchie sleeping positions
 - Removable, machine-washable cover
 - Nonskid bottom
 - Great size options for Frenchies (Medium: 76x51cm)
@@ -50,12 +50,12 @@ This is George's daily driver and has been for over a year. The egg-crate orthop
 
 ---
 
-### 2. PetFusion Ultimate Dog Lounge — Best Premium Orthopedic
+### 2. PetFusion Ultimate Dog Lounge. Best Premium Orthopedic
 
 If budget isn't your primary concern, the PetFusion is the best orthopedic bed I've tested. The 10cm memory foam base is dense and supportive, and the bolsters are large enough for George to properly drape over. The cover is resistant to water and holds up to frequent washing.
 
 **Why it's great for Frenchies:**
-- 10cm solid memory foam — exceptional joint support
+- 10cm solid memory foam, exceptional joint support
 - Water-resistant liner protects foam
 - Bolsters on all four sides
 - Certified skin-safe materials (important for sensitive Frenchie skin)
@@ -69,12 +69,12 @@ If budget isn't your primary concern, the PetFusion is the best orthopedic bed I
 
 ---
 
-### 3. Pecute Cooling Dog Bed — Best for Summer
+### 3. Pecute Cooling Dog Bed. Best for Summer
 
-When temperatures climb above 22°C, George turns into a dramatically overheating puddle. This cooling bed uses a gel-infused cooling pad that absorbs body heat and dissipates it. No electricity, no water — just pressure-activated cooling.
+When temperatures climb above 22°C, George turns into a dramatically overheating puddle. This cooling bed uses a gel-infused cooling pad that absorbs body heat and dissipates it. No electricity, no water, just pressure-activated cooling.
 
 **Why it's great for Frenchies:**
-- Gel cooling pad — activates on contact
+- Gel cooling pad, activates on contact
 - No water or electricity needed
 - Lightweight and portable
 - Easy to clean (just wipe down)
@@ -88,12 +88,12 @@ When temperatures climb above 22°C, George turns into a dramatically overheatin
 
 ---
 
-### 4. Knuffelwuff Orthopedic Dog Bed Madison — Best Bolster Bed
+### 4. Knuffelwuff Orthopedic Dog Bed Madison. Best Bolster Bed
 
 This German-made bed is essentially a Frenchie fortress. High bolsters on all sides create a nest-like sleeping space that George absolutely adores. The orthopedic mattress inside provides genuine support, and the whole thing looks good enough that you won't mind it in your living room.
 
 **Why it's great for Frenchies:**
-- High bolsters on all sides — ultimate nesting
+- High bolsters on all sides, ultimate nesting
 - Genuine orthopedic foam insert
 - Premium fabric that resists scratching
 - Machine-washable cover
@@ -108,12 +108,12 @@ This German-made bed is essentially a Frenchie fortress. High bolsters on all si
 
 ---
 
-### 5. Coolaroo Elevated Pet Bed — Best Elevated/Cooling Option
+### 5. Coolaroo Elevated Pet Bed. Best Elevated/Cooling Option
 
 A completely different approach: the Coolaroo is an elevated cot-style bed that allows air to circulate underneath. This is fantastic for temperature regulation and joint support (the flexible mesh conforms to body shape).
 
 **Why it's great for Frenchies:**
-- Airflow from all sides — excellent cooling
+- Airflow from all sides, excellent cooling
 - HDPE fabric resists mites, fleas, mold
 - No foam to flatten or retain heat
 - Easy to clean (just hose off)
@@ -128,12 +128,12 @@ A completely different approach: the Coolaroo is an elevated cot-style bed that 
 
 ---
 
-### 6. Furhaven Orthopedic Plush & Suede Sofa Bed — Best Budget Option
+### 6. Furhaven Orthopedic Plush & Suede Sofa Bed. Best Budget Option
 
 If you want orthopedic support without breaking the bank, the Furhaven delivers. The L-shaped bolster gives head support on two sides, the egg-crate orthopedic foam is decent quality, and the plush cover is surprisingly soft for the price.
 
 **Why it's great for Frenchies:**
-- L-shaped bolster — head support + open entry
+- L-shaped bolster, head support + open entry
 - Egg-crate orthopedic foam
 - Ultra-soft plush top
 - Removable, washable cover
@@ -147,7 +147,7 @@ If you want orthopedic support without breaking the bank, the Furhaven delivers.
 
 ---
 
-### 7. Hunter Boston Dog Bed — Best for Allergy-Prone Frenchies
+### 7. Hunter Boston Dog Bed. Best for Allergy-Prone Frenchies
 
 French Bulldogs and allergies go together like peanut butter and jelly (unfortunately). The Hunter Boston uses Ökotex-certified fabrics that are hypoallergenic and designed for sensitive skin. The construction is easy to fully disassemble for deep cleaning.
 
@@ -179,25 +179,25 @@ French Bulldogs and allergies go together like peanut butter and jelly (unfortun
 | Hunter Boston | Allergies | ⭐⭐⭐ | ⭐⭐ | ✅ | €40-55 |
 
 ![Puppy George sleeping on a grey bolster bed](/images/george/web/george-17.jpg)
-*George napping on the bolster bed — he loved having something to rest his head on*
+*George napping on the bolster bed, he loved having something to rest his head on*
 
 ## Why Orthopedic Beds Matter for French Bulldogs
 
 French Bulldogs are genetically predisposed to several joint and spinal conditions:
 
-- **Hip dysplasia** — The ball and socket joint doesn't fit properly, causing pain and mobility issues
-- **Patellar luxation** — The kneecap slips out of place
-- **Intervertebral Disc Disease (IVDD)** — Spinal discs degenerate, potentially causing pain or paralysis
-- **Arthritis** — Especially common in Frenchies over 5 years old
+- **Hip dysplasia.** The ball and socket joint doesn't fit properly, causing pain and mobility issues
+- **Patellar luxation.** The kneecap slips out of place
+- **Intervertebral Disc Disease (IVDD).** Spinal discs degenerate, potentially causing pain or paralysis
+- **Arthritis.** Especially common in Frenchies over 5 years old
 
-A quality orthopedic bed with memory foam or high-density foam distributes your Frenchie's weight evenly, reducing pressure on joints and spine during those 14+ hours of daily sleep. It's not a luxury — it's preventive healthcare.
+A quality orthopedic bed with memory foam or high-density foam distributes your Frenchie's weight evenly, reducing pressure on joints and spine during those 14+ hours of daily sleep. It's not a luxury, it's preventive healthcare.
 
 ## Bed Placement Tips for French Bulldogs
 
-- **Away from radiators and direct sunlight** — Frenchies overheat easily. Keep their bed in a cool, shaded spot.
-- **Slightly elevated if possible** — Cold air sinks. A bed that's off the floor (even just on a low platform) helps in winter.
-- **Draft-free zone** — Not next to exterior doors or single-pane windows.
-- **Where they can see you** — Frenchies are companion dogs. They want to sleep near their humans. Put the bed in whatever room you spend the most time in.
+- **Away from radiators and direct sunlight.** Frenchies overheat easily. Keep their bed in a cool, shaded spot.
+- **Slightly elevated if possible.** Cold air sinks. A bed that's off the floor (even just on a low platform) helps in winter.
+- **Draft-free zone.** Not next to exterior doors or single-pane windows.
+- **Where they can see you.** Frenchies are companion dogs. They want to sleep near their humans. Put the bed in whatever room you spend the most time in.
 
 ## My Pick for Most Frenchie Owners
 

@@ -12,7 +12,7 @@ cover:
   caption: "George's 'do I really need a bath?' face"
 ---
 
-Bathing a French Bulldog isn't just about keeping them clean — it's skincare. Frenchies have some of the most sensitive skin of any breed, and the wrong shampoo can trigger allergic reactions, dry out their skin, strip natural oils, and make existing problems worse.
+Bathing a French Bulldog isn't just about keeping them clean, it's skincare. Frenchies have some of the most sensitive skin of any breed, and the wrong shampoo can trigger allergic reactions, dry out their skin, strip natural oils, and make existing problems worse.
 
 George's skin journey has involved trial and error with at least a dozen shampoos. Some made him itchier. One gave him hives. A few did nothing. And then there were the ones that actually worked.
 
@@ -20,26 +20,26 @@ Here are the 7 best shampoos for French Bulldogs, organized by skin concern.
 
 ## Why French Bulldogs Need Special Shampoo
 
-Regular dog shampoo — and definitely human shampoo — is too harsh for Frenchies. Here's why:
+Regular dog shampoo, and definitely human shampoo, is too harsh for Frenchies. Here's why:
 
-- **pH sensitivity** — Dog skin has a different pH than human skin (~7.0 vs ~5.5). Dog shampoos are formulated for this. But even some dog shampoos are too alkaline for Frenchies.
-- **Skin allergies** — Frenchies are prone to atopic dermatitis. Fragrances, sulfates, and harsh detergents trigger flare-ups.
-- **Skin folds** — The adorable wrinkles on their face trap moisture, creating breeding grounds for yeast and bacteria. Gentle cleansing without over-drying is key.
-- **Thin coat** — Frenchies have a single, short coat with less protection than double-coated breeds. Their skin is more exposed to shampoo ingredients.
-- **Natural oil balance** — Over-bathing or using stripping shampoos destroys the skin's natural oil barrier, causing dryness, flaking, and overproduction of oil (making them smell worse).
+- **pH sensitivity.** Dog skin has a different pH than human skin (~7.0 vs ~5.5). Dog shampoos are formulated for this. But even some dog shampoos are too alkaline for Frenchies.
+- **Skin allergies.** Frenchies are prone to atopic dermatitis. Fragrances, sulfates, and harsh detergents trigger flare-ups.
+- **Skin folds.** The adorable wrinkles on their face trap moisture, creating breeding grounds for yeast and bacteria. Gentle cleansing without over-drying is key.
+- **Thin coat.** Frenchies have a single, short coat with less protection than double-coated breeds. Their skin is more exposed to shampoo ingredients.
+- **Natural oil balance.** Over-bathing or using stripping shampoos destroys the skin's natural oil barrier, causing dryness, flaking, and overproduction of oil (making them smell worse).
 
 ## The 7 Best Shampoos for French Bulldogs
 
-### 1. Virbac Epi-Soothe Shampoo — Best for Sensitive Skin (Overall)
+### 1. Virbac Epi-Soothe Shampoo. Best for Sensitive Skin (Overall)
 
 Virbac Epi-Soothe is the shampoo our vet recommended when George's skin was at its worst. It's a soap-free, fragrance-free formula designed specifically for dogs with sensitive, itchy skin. The oat-based formula soothes irritation without stripping natural oils.
 
 **Key ingredients:** Colloidal oatmeal, glycerin, chitosanide
 
 **Why it's great for Frenchies:**
-- Soap-free — doesn't strip natural oils
+- Soap-free, doesn't strip natural oils
 - Colloidal oatmeal soothes itchy, irritated skin
-- Fragrance-free — no allergen triggers
+- Fragrance-free, no allergen triggers
 - pH-balanced for canine skin
 - Vet-recommended for atopic dermatitis
 - Gentle enough for frequent use
@@ -50,7 +50,7 @@ Virbac Epi-Soothe is the shampoo our vet recommended when George's skin was at i
 
 ---
 
-### 2. Malaseb Medicated Shampoo — Best for Yeast & Bacterial Issues
+### 2. Malaseb Medicated Shampoo. Best for Yeast & Bacterial Issues
 
 If your Frenchie has recurring skin fold infections, yeast problems (that distinct musty smell), or bacterial dermatitis, Malaseb is the nuclear option. It contains both antifungal and antibacterial ingredients.
 
@@ -63,7 +63,7 @@ If your Frenchie has recurring skin fold infections, yeast problems (that distin
 - Vet-recommended for diagnosed skin infections
 - Works where regular shampoos can't
 
-**Watch out for:** This is a medicated shampoo — use it as directed by your vet, not as a regular bathing shampoo. Overuse can dry skin out.
+**Watch out for:** This is a medicated shampoo, use it as directed by your vet, not as a regular bathing shampoo. Overuse can dry skin out.
 
 **Price:** ~€15-25 for 250ml
 
@@ -71,7 +71,7 @@ If your Frenchie has recurring skin fold infections, yeast problems (that distin
 
 ---
 
-### 3. Earthbath Oatmeal & Aloe — Best Natural Option
+### 3. Earthbath Oatmeal & Aloe. Best Natural Option
 
 For Frenchie owners who prefer natural ingredients, Earthbath Oatmeal & Aloe is the best balance of effectiveness and clean ingredients. The oatmeal-aloe combination is genuinely soothing, and the formula is free of parabens, sulfates, phosphates, and phthalates.
 
@@ -91,9 +91,9 @@ For Frenchie owners who prefer natural ingredients, Earthbath Oatmeal & Aloe is 
 
 ---
 
-### 4. Douxo S3 CALM Shampoo — Best for Allergy-Related Itching
+### 4. Douxo S3 CALM Shampoo. Best for Allergy-Related Itching
 
-Douxo S3 CALM is a veterinary dermatology-grade shampoo designed for dogs with allergic skin reactions. The key ingredient — Ophytrium — is a patented plant extract that soothes, strengthens the skin barrier, and reduces redness.
+Douxo S3 CALM is a veterinary dermatology-grade shampoo designed for dogs with allergic skin reactions. The key ingredient. Ophytrium, is a patented plant extract that soothes, strengthens the skin barrier, and reduces redness.
 
 **Key ingredients:** Ophytrium (plant extract), lipids, amino acids
 
@@ -111,20 +111,20 @@ Douxo S3 CALM is a veterinary dermatology-grade shampoo designed for dogs with a
 
 ---
 
-### 5. Bioderma ABCDerm Gentle Shampoo — Best Human-Crossover Pick
+### 5. Bioderma ABCDerm Gentle Shampoo. Best Human-Crossover Pick
 
 This is a slightly unconventional recommendation: Bioderma ABCDerm is actually a baby shampoo, but it's the gentlest cleansing formula I've found, and some Frenchie owners (and vets) recommend it for extremely reactive skin. The ultra-mild surfactants won't irritate even the most sensitive Frenchie skin.
 
 **Key ingredients:** Mild surfactants, no fragrance, no parabens, no soap
 
 **Why it works for Frenchies:**
-- Incredibly gentle — made for newborn human skin
+- Incredibly gentle, made for newborn human skin
 - Hypoallergenic, fragrance-free
 - No soap, no parabens, no alcohol
 - Won't cause tears (good for face-fold cleaning)
 - Dermatologist-tested
 
-**Watch out for:** Not pH-optimized for dogs (human pH ~5.5 vs dog ~7.0). Use sparingly — it's better for spot-cleaning folds than full baths. Discuss with your vet.
+**Watch out for:** Not pH-optimized for dogs (human pH ~5.5 vs dog ~7.0). Use sparingly, it's better for spot-cleaning folds than full baths. Discuss with your vet.
 
 **Price:** ~€8-12 for 200ml
 
@@ -132,7 +132,7 @@ This is a slightly unconventional recommendation: Bioderma ABCDerm is actually a
 
 ---
 
-### 6. Burt's Bees for Dogs — Oatmeal Shampoo — Best Budget
+### 6. Burt's Bees for Dogs. Oatmeal Shampoo. Best Budget
 
 Burt's Bees makes a solid, affordable oatmeal dog shampoo that's gentle enough for Frenchies. It's not as specialized as the vet-grade options, but for routine bathing of Frenchies without severe skin issues, it does the job well.
 
@@ -152,7 +152,7 @@ Burt's Bees makes a solid, affordable oatmeal dog shampoo that's gentle enough f
 
 ---
 
-### 7. Vetoquinol Aloe & Oatmeal Shampoo — Best for Dry Skin
+### 7. Vetoquinol Aloe & Oatmeal Shampoo. Best for Dry Skin
 
 If your Frenchie's primary issue is dry, flaky skin (rather than allergies or infections), Vetoquinol's formula adds ceramides and fatty acids to the oatmeal-aloe base, actively restoring the skin's moisture barrier.
 
@@ -187,16 +187,16 @@ If your Frenchie's primary issue is dry, flaky skin (rather than allergies or in
 
 **Once every 4-6 weeks** is the general recommendation for full baths. Over-bathing strips natural oils and makes skin problems worse.
 
-However, **face fold cleaning should be done 2-3 times per week** (or daily for Frenchies prone to fold infections). Use a damp cloth or unscented baby wipe — no shampoo needed for fold maintenance.
+However, **face fold cleaning should be done 2-3 times per week** (or daily for Frenchies prone to fold infections). Use a damp cloth or unscented baby wipe, no shampoo needed for fold maintenance.
 
 ## Bathing Tips for French Bulldogs
 
-1. **Use lukewarm water** — Hot water dries skin. Cool water is uncomfortable. Lukewarm is the sweet spot.
-2. **Wet thoroughly before applying shampoo** — Frenchie coats are short but dense. Make sure water reaches the skin.
-3. **Avoid the face** — Clean face folds separately with a damp cloth. Shampoo in the eyes or nose is extra problematic for brachycephalic breeds.
-4. **Rinse completely** — Shampoo residue causes itching and irritation. Rinse until the water runs completely clear.
-5. **Dry the folds** — After bathing, dry between every skin fold thoroughly. Trapped moisture = infections.
-6. **Apply a light moisturizer** — For dry-skinned Frenchies, a coconut oil or veterinary moisturizer after bathing helps lock in hydration.
+1. **Use lukewarm water.** Hot water dries skin. Cool water is uncomfortable. Lukewarm is the sweet spot.
+2. **Wet thoroughly before applying shampoo.** Frenchie coats are short but dense. Make sure water reaches the skin.
+3. **Avoid the face.** Clean face folds separately with a damp cloth. Shampoo in the eyes or nose is extra problematic for brachycephalic breeds.
+4. **Rinse completely.** Shampoo residue causes itching and irritation. Rinse until the water runs completely clear.
+5. **Dry the folds.** After bathing, dry between every skin fold thoroughly. Trapped moisture = infections.
+6. **Apply a light moisturizer.** For dry-skinned Frenchies, a coconut oil or veterinary moisturizer after bathing helps lock in hydration.
 
 ## My Pick for Most Frenchie Owners
 

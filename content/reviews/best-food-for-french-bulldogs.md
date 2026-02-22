@@ -12,7 +12,7 @@ cover:
   caption: "George enjoying his favourite natural chew"
 ---
 
-Feeding a French Bulldog is more complicated than it should be. George has a sensitive stomach, skin allergies triggered by certain proteins, and the Frenchie tendency to inhale food so fast he makes himself sick. Finding the right food took months of trial and error — and a few vet bills.
+Feeding a French Bulldog is more complicated than it should be. George has a sensitive stomach, skin allergies triggered by certain proteins, and the Frenchie tendency to inhale food so fast he makes himself sick. Finding the right food took months of trial and error, and a few vet bills.
 
 If your Frenchie has gas that clears a room, itchy skin, ear infections, or chronic loose stools, the food is almost always a factor. Here are the 7 best foods for French Bulldogs, based on real testing and veterinary guidance.
 
@@ -20,18 +20,18 @@ If your Frenchie has gas that clears a room, itchy skin, ear infections, or chro
 
 French Bulldogs have specific nutritional needs driven by their breed-specific health issues:
 
-- **Limited ingredient / novel protein** — Frenchies are prone to food allergies. Common triggers include chicken, beef, wheat, corn, and soy. Limited ingredient formulas with novel proteins (salmon, duck, venison, lamb) reduce allergic reactions.
-- **Omega-3 and Omega-6 fatty acids** — Essential for skin and coat health. Frenchies with skin issues benefit enormously from fish-based omega fatty acids.
-- **Prebiotics and probiotics** — Frenchies have sensitive digestive systems. Probiotic-enriched food supports gut health and reduces gas and loose stools.
-- **Moderate protein, moderate fat** — Frenchies are muscular but prone to obesity. Aim for 25-30% protein and 12-18% fat.
-- **Small kibble size** — Frenchies have flat faces and can struggle with large kibble. Small, easy-to-pick-up pieces are ideal.
-- **No artificial additives** — Artificial colors, flavors, and preservatives can trigger skin reactions and digestive issues.
+- **Limited ingredient / novel protein.** Frenchies are prone to food allergies. Common triggers include chicken, beef, wheat, corn, and soy. Limited ingredient formulas with novel proteins (salmon, duck, venison, lamb) reduce allergic reactions.
+- **Omega-3 and Omega-6 fatty acids.** Essential for skin and coat health. Frenchies with skin issues benefit enormously from fish-based omega fatty acids.
+- **Prebiotics and probiotics.** Frenchies have sensitive digestive systems. Probiotic-enriched food supports gut health and reduces gas and loose stools.
+- **Moderate protein, moderate fat.** Frenchies are muscular but prone to obesity. Aim for 25-30% protein and 12-18% fat.
+- **Small kibble size.** Frenchies have flat faces and can struggle with large kibble. Small, easy-to-pick-up pieces are ideal.
+- **No artificial additives.** Artificial colors, flavors, and preservatives can trigger skin reactions and digestive issues.
 
 ## The 7 Best Foods for French Bulldogs
 
-### 1. Royal Canin French Bulldog Adult — Best Breed-Specific
+### 1. Royal Canin French Bulldog Adult. Best Breed-Specific
 
-Say what you will about Royal Canin's pricing — their breed-specific formulas are genuinely well-researched. The French Bulldog formula has specially shaped kibble designed for the brachycephalic jaw, a protein blend that supports muscle mass, and added nutrients for skin barrier health.
+Say what you will about Royal Canin's pricing, their breed-specific formulas are genuinely well-researched. The French Bulldog formula has specially shaped kibble designed for the brachycephalic jaw, a protein blend that supports muscle mass, and added nutrients for skin barrier health.
 
 **Why it's great for Frenchies:**
 - Kibble shape designed for flat-faced breeds
@@ -48,19 +48,19 @@ Say what you will about Royal Canin's pricing — their breed-specific formulas 
 
 ---
 
-### 2. Acana Singles Lamb & Apple — Best for Food Allergies
+### 2. Acana Singles Lamb & Apple. Best for Food Allergies
 
 When George's skin allergies flared up, our vet recommended a single-protein diet. Acana Singles Lamb & Apple has one animal protein source (lamb) and limited ingredients overall, making it easy to identify and eliminate triggers.
 
 **Why it's great for Frenchies:**
-- Single animal protein (lamb) — easy allergy management
+- Single animal protein (lamb, easy allergy management
 - Limited ingredients reduce reaction risk
-- 50% meat content — high quality protein
+- 60% meat content, high quality protein
 - No chicken, beef, wheat, corn, or soy
 - Whole fruit and vegetables for fiber and nutrients
 - Canadian-made with traceable ingredients
 
-**Watch out for:** Premium price point. Also, some Frenchies don't love the taste initially — mix it gradually with their current food over 7-10 days.
+**Watch out for:** Premium price point. Also, some Frenchies don't love the taste initially, mix it gradually with their current food over 7-10 days.
 
 **Price:** ~€55-70 for 6kg
 
@@ -68,7 +68,7 @@ When George's skin allergies flared up, our vet recommended a single-protein die
 
 ---
 
-### 3. Wellness CORE Digestive Health — Best for Sensitive Stomachs
+### 3. Wellness CORE Digestive Health. Best for Sensitive Stomachs
 
 If your Frenchie's primary issue is digestive (gas, soft stools, vomiting), Wellness CORE Digestive Health is specifically formulated for gut support. It includes a proprietary blend of probiotics, prebiotics, and digestive enzymes.
 
@@ -88,19 +88,19 @@ If your Frenchie's primary issue is digestive (gas, soft stools, vomiting), Well
 
 ---
 
-### 4. Taste of the Wild Pacific Stream — Best Fish-Based
+### 4. Taste of the Wild Pacific Stream. Best Fish-Based
 
 Fish-based diets are often the solution for Frenchies with chicken or beef allergies. Taste of the Wild Pacific Stream uses smoked salmon as the primary protein and is packed with omega-3 fatty acids for skin and coat health.
 
 **Why it's great for Frenchies:**
-- Salmon-based — great for dogs with poultry/beef allergies
+- Salmon-based, great for dogs with poultry/beef allergies
 - High omega-3 content for skin health
 - Grain-free with sweet potato and peas
 - Added probiotics (K9 strain)
 - No artificial colors, flavors, or preservatives
 - Good value for the quality
 
-**Watch out for:** Strong fish smell that some owners don't love. Also, see the grain-free/DCM note above — discuss with your vet for long-term feeding.
+**Watch out for:** Strong fish smell that some owners don't love. Also, see the grain-free/DCM note above, discuss with your vet for long-term feeding.
 
 **Price:** ~€40-55 for 5.6kg
 
@@ -108,9 +108,9 @@ Fish-based diets are often the solution for Frenchies with chicken or beef aller
 
 ---
 
-### 5. Hill's Science Diet Sensitive Stomach & Skin — Best Vet-Recommended
+### 5. Hill's Science Diet Sensitive Stomach & Skin. Best Vet-Recommended
 
-Hill's is the brand most frequently recommended by vets, and for good reason — their formulas are backed by extensive clinical research. The Sensitive Stomach & Skin formula is specifically designed for dogs with digestive and dermatological issues.
+Hill's is the brand most frequently recommended by vets, and for good reason, their formulas are backed by extensive clinical research. The Sensitive Stomach & Skin formula is specifically designed for dogs with digestive and dermatological issues.
 
 **Why it's great for Frenchies:**
 - Clinically tested for digestive health
@@ -128,19 +128,19 @@ Hill's is the brand most frequently recommended by vets, and for good reason —
 
 ---
 
-### 6. Orijen Original — Best High-Protein
+### 6. Orijen Original. Best High-Protein
 
 If your Frenchie tolerates it (not all sensitive stomachs can), Orijen is arguably the highest quality dry dog food on the market. It's 85% animal ingredients with a "Whole Prey" philosophy that includes meat, organs, and cartilage.
 
 **Why it's great for Frenchies:**
-- 85% animal ingredients — closest to a natural diet
+- 85% animal ingredients, closest to a natural diet
 - Multiple protein sources (chicken, turkey, fish, eggs)
 - Fresh and raw ingredients, not rendered meals
 - No grains, potatoes, or tapioca
 - Rich in omega-3 from whole fish
 - Canadian-made with traceable ingredients
 
-**Watch out for:** Very rich food. Introduce gradually — some Frenchies with sensitive stomachs can't handle the high protein and fat content. Also contains chicken, which is a common Frenchie allergen.
+**Watch out for:** Very rich food. Introduce gradually, some Frenchies with sensitive stomachs can't handle the high protein and fat content. Also contains chicken, which is a common Frenchie allergen.
 
 **Price:** ~€65-85 for 6kg
 
@@ -148,7 +148,7 @@ If your Frenchie tolerates it (not all sensitive stomachs can), Orijen is arguab
 
 ---
 
-### 7. Lily's Kitchen Grain Free Adult — Best Natural/Organic
+### 7. Lily's Kitchen Grain Free Adult. Best Natural/Organic
 
 For owners who want a natural, human-grade food with transparent sourcing, Lily's Kitchen is excellent. The grain-free recipe uses freshly prepared meat and vegetables with no meat meals, fillers, or artificial additives.
 
@@ -182,7 +182,7 @@ For owners who want a natural, human-grade food with transparent sourcing, Lily'
 
 ## How to Transition Your French Bulldog to New Food
 
-Never switch food abruptly — this guarantees digestive upset. Follow this gradual transition:
+Never switch food abruptly, this guarantees digestive upset. Follow this gradual transition:
 
 - **Days 1-2:** 75% old food, 25% new food
 - **Days 3-4:** 50/50
@@ -193,17 +193,17 @@ If your Frenchie shows digestive distress at any stage, slow down and spend an e
 
 ## Feeding Tips for French Bulldogs
 
-- **Use a slow feeder bowl** — Frenchies inhale their food, which causes bloating, gas, and vomiting. A slow feeder forces them to eat at a reasonable pace.
-- **Measure portions** — Frenchies gain weight easily. Follow the feeding guidelines on the package and adjust based on your vet's recommendation.
-- **Feed twice daily** — Two meals (morning and evening) is better than one large meal for digestion.
-- **Elevate the bowl slightly** — A slightly raised bowl (5-10cm) can make eating easier for flat-faced breeds and reduce air swallowing.
-- **Fresh water always** — Keep clean water available at all times. Frenchies don't always drink enough.
+- **Use a slow feeder bowl.** Frenchies inhale their food, which causes bloating, gas, and vomiting. A slow feeder forces them to eat at a reasonable pace.
+- **Measure portions.** Frenchies gain weight easily. Follow the feeding guidelines on the package and adjust based on your vet's recommendation.
+- **Feed twice daily.** Two meals (morning and evening) is better than one large meal for digestion.
+- **Elevate the bowl slightly.** A slightly raised bowl (5-10cm) can make eating easier for flat-faced breeds and reduce air swallowing.
+- **Fresh water always.** Keep clean water available at all times. Frenchies don't always drink enough.
 
 > **Important:** If your Frenchie has persistent digestive issues, skin problems, or allergies, consult your vet before making major dietary changes. Some conditions require prescription diets that aren't available over the counter.
 
 ## My Pick for Most Frenchie Owners
 
-Start with **Royal Canin French Bulldog Adult** — it's specifically designed for the breed and works well for most Frenchies without significant allergies.
+Start with **Royal Canin French Bulldog Adult.** It's specifically designed for the breed and works well for most Frenchies without significant allergies.
 
 If your Frenchie has food allergies, switch to **Acana Singles Lamb & Apple** for a clean, single-protein diet.
 
