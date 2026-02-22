@@ -76,7 +76,7 @@ If your Frenchie shows serious heatstroke signs:
 
 1. **Move to shade/indoors immediately**
 2. **Apply cold water** to their paw pads, belly, inner thighs, and ears. Use a wet towel, running water, or immerse them in cold water if possible.
-3. **Cold water is safe and recommended.** Recent veterinary research (Royal Veterinary College, 2023) has debunked the old myth that ice water causes dangerous vasoconstriction. Cold water immersion is now the gold standard for heatstroke treatment in dogs — the colder the water, the faster the cooling.
+3. **Cold water is safe and recommended.** Recent veterinary research (Royal Veterinary College, 2023) has debunked the old myth that ice water causes dangerous vasoconstriction. Cold water immersion is now the gold standard for heatstroke treatment in dogs. The colder the water, the faster the cooling.
 4. **Offer small amounts of cool water.** Don't force them to drink. Small sips only.
 5. **Place cool, wet towels on them.** Replace frequently as they warm up.
 6. **Fan them.** Airflow increases evaporative cooling.

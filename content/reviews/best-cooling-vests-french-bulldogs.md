@@ -172,7 +172,7 @@ Know these warning signs, they can escalate to heatstroke fast:
 6. **Vomiting or diarrhea.** Especially if sudden
 7. **Collapse.** Medical emergency. Get to a vet immediately.
 
-> **Emergency cooling:** If your Frenchie shows signs of heatstroke, move them to shade immediately, apply cold water to their paws, belly, and ears, and get to a vet as fast as possible. Recent veterinary research confirms cold water immersion is the most effective cooling method — the old advice to avoid ice water has been debunked.
+> **Emergency cooling:** If your Frenchie shows signs of heatstroke, move them to shade immediately, apply cold water to their paws, belly, and ears, and get to a vet as fast as possible. Recent veterinary research confirms cold water immersion is the most effective cooling method. The old advice to avoid ice water has been debunked.
 
 ## My Pick for Most Frenchie Owners
 
