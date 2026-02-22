@@ -35,7 +35,7 @@ Every product on this site has been tested on George (or thoroughly researched w
 
 ## Meet George 🐶
 
-George is a blue and tan French Bulldog with an opinion about everything and a talent for strategic napping. He's the chief product tester at The Frenchie Life. His qualifications include:
+George is a gray French Bulldog with an opinion about everything and a talent for strategic napping. He's the chief product tester at The Frenchie Life. His qualifications include:
 
 - **5-star snorer** — Can be heard from two rooms away
 - **Professional treat negotiator** — Will sit, shake, and spin for a single dental chew
