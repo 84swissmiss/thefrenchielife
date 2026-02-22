@@ -1,0 +1,80 @@
+baseURL = "https://thefrenchie.life/"
+languageCode = "en-us"
+title = "The Frenchie Life — Honest French Bulldog Gear Reviews"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+
+enableRobotsTXT = true
+buildDrafts = false
+
+[params]
+  env = "production"
+  description = "Honest reviews of French Bulldog gear, food, and accessories — by a real Frenchie owner."
+  author = "The Frenchie Life"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowToc = true
+  TocOpen = false
+  comments = false
+  defaultTheme = "light"
+  disableThemeToggle = false
+
+  [params.cover]
+    linkFullImages = false
+    responsiveImages = true
+
+  [params.homeInfoParams]
+    Title = "🐶 Gear for your favorite flat-faced friend"
+    Content = """No-BS reviews of French Bulldog harnesses, beds, food, and accessories. Tested on a real Frenchie named George.\n\nNo sponsored posts. No fluff. Just what works for Frenchies."""
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:hello@thefrenchie.life"
+
+  [params.label]
+    text = "The Frenchie Life"
+    icon = "🐶"
+    iconHeight = 35
+
+  [params.profileMode]
+    enabled = false
+
+[params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = ["title", "permalink", "summary", "content"]
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.main]]
+  identifier = "reviews"
+  name = "🔍 Reviews"
+  url = "/reviews/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "guides"
+  name = "📖 Guides"
+  url = "/guides/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 30
