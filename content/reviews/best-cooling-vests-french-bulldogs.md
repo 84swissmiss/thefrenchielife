@@ -6,6 +6,10 @@ tags: ["french bulldog", "cooling vest", "summer safety", "overheating"]
 categories: ["reviews"]
 ShowToc: true
 TocOpen: false
+cover:
+  image: "/images/george/web/george-34.jpg"
+  alt: "George the French Bulldog wading in a river to cool off"
+  caption: "George's favourite way to beat the heat"
 ---
 
 If there's one thing every French Bulldog owner learns fast, it's that Frenchies and heat don't mix. George starts panting if the temperature hits 23°C, and anything above 28°C is a genuine health risk.
@@ -13,6 +17,9 @@ If there's one thing every French Bulldog owner learns fast, it's that Frenchies
 French Bulldogs are brachycephalic — their shortened airways make it much harder for them to cool themselves through panting (which is how dogs regulate body temperature). This makes them extremely vulnerable to heatstroke, which can be fatal.
 
 A cooling vest won't replace shade, water, and air conditioning, but it's an essential layer of protection for walks, outdoor time, and travel in warm weather. Here are the 5 best cooling vests and bandanas I've tested on George.
+
+![George at an alpine lake wearing his turquoise harness](/images/george/web/george-25.jpg)
+*George staying cool at the alpine lake — cooling vests are essential for days like this*
 
 ## How Cooling Vests Work
 

@@ -2,6 +2,10 @@
 title: "About The Frenchie Life"
 description: "Meet the human (and the Frenchie) behind The Frenchie Life — honest gear reviews for French Bulldogs."
 ShowToc: false
+cover:
+  image: "/images/george/web/george-08.jpg"
+  alt: "George the French Bulldog sitting alert on the couch — portrait"
+  caption: "George, the chief product tester at The Frenchie Life"
 ---
 
 ## Hey there 👋
@@ -26,6 +30,9 @@ Every product on this site has been tested on George (or thoroughly researched w
 
 **My affiliate disclosure:** Some links on this site are affiliate links. If you buy something through them, I earn a small commission at no extra cost to you. This helps keep the site running and George in treats. I only recommend products I genuinely believe are good for French Bulldogs.
 
+![George on a hilltop trail overlooking the city](/images/george/web/george-30.jpg)
+*George on one of our favourite hilltop trails*
+
 ## Meet George 🐶
 
 George is a fawn French Bulldog with an opinion about everything and a talent for strategic napping. He's the chief product tester at The Frenchie Life. His qualifications include:
@@ -34,6 +41,9 @@ George is a fawn French Bulldog with an opinion about everything and a talent fo
 - **Professional treat negotiator** — Will sit, shake, and spin for a single dental chew
 - **Harness escape artist** — Has tested the durability of every harness on this site (involuntarily)
 - **Heat sensitivity expert** — Will dramatically flop on the floor if the room is above 22°C
+
+![George trotting on a gravel path in the evening sun](/images/george/web/george-36.jpg)
+*George on an evening walk — his favourite time of day*
 
 ## Why Trust Us?
 

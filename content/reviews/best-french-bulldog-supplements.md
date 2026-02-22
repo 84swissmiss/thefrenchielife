@@ -6,6 +6,10 @@ tags: ["french bulldog", "supplements", "joint health", "skin care"]
 categories: ["reviews"]
 ShowToc: true
 TocOpen: false
+cover:
+  image: "/images/george/web/george-11.jpg"
+  alt: "George the French Bulldog on the couch with a dental chew"
+  caption: "George with his dental chew — supplements are part of his daily routine"
 ---
 
 French Bulldogs are wonderful dogs with a laundry list of health predispositions. Joint issues, skin problems, digestive sensitivity — these aren't possibilities, they're probabilities. The right supplements can make a meaningful difference in your Frenchie's quality of life, especially as they age.

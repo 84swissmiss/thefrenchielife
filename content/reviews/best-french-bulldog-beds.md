@@ -6,6 +6,10 @@ tags: ["french bulldog", "dog bed", "orthopedic bed", "cooling bed"]
 categories: ["reviews"]
 ShowToc: true
 TocOpen: false
+cover:
+  image: "/images/george/web/george-39.jpg"
+  alt: "George the French Bulldog peeking out from under a fleece blanket"
+  caption: "George in his natural habitat — under a blanket"
 ---
 
 French Bulldogs spend an impressive amount of their lives sleeping. George clocks about 14 hours a day, which means his bed is arguably the most important piece of gear he owns. And yet, most "best dog bed" lists don't account for the specific needs of Frenchies.
@@ -13,6 +17,9 @@ French Bulldogs spend an impressive amount of their lives sleeping. George clock
 Here's the thing: French Bulldogs are prone to joint problems (hip dysplasia, patellar luxation, IVDD), they overheat easily, and they love to curl up against something. A generic dog bed isn't going to cut it.
 
 After testing more beds than I'd like to admit (George thinks he's a mattress reviewer), here are the 7 that actually work for French Bulldogs.
+
+![Puppy George sleeping in a Trixie pet bed with a pink pig toy](/images/george/web/george-16.jpg)
+*George as a puppy — already a professional sleeper*
 
 ## What Makes a Good French Bulldog Bed?
 
@@ -170,6 +177,9 @@ French Bulldogs and allergies go together like peanut butter and jelly (unfortun
 | Coolaroo Elevated | Airflow cooling | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ | €25-40 |
 | Furhaven Sofa | Budget | ⭐⭐⭐ | ⭐⭐ | ✅ | €25-35 |
 | Hunter Boston | Allergies | ⭐⭐⭐ | ⭐⭐ | ✅ | €40-55 |
+
+![Puppy George sleeping on a grey bolster bed](/images/george/web/george-17.jpg)
+*George napping on the bolster bed — he loved having something to rest his head on*
 
 ## Why Orthopedic Beds Matter for French Bulldogs
 

@@ -28,6 +28,8 @@ buildDrafts = false
     linkFullImages = false
     responsiveImages = true
 
+  images = ["/images/george/web/george-36.jpg"]
+
   [params.homeInfoParams]
     Title = "🐶 Gear for your favorite flat-faced friend"
     Content = """No-BS reviews of French Bulldog harnesses, beds, food, and accessories. Tested on a real Frenchie named George.\n\nNo sponsored posts. No fluff. Just what works for Frenchies."""

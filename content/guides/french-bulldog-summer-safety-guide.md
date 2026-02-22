@@ -6,11 +6,18 @@ tags: ["french bulldog", "summer safety", "overheating", "heatstroke"]
 categories: ["guides"]
 ShowToc: true
 TocOpen: false
+cover:
+  image: "/images/george/web/george-26.jpg"
+  alt: "George the French Bulldog gazing at an alpine lake and mountains"
+  caption: "George at the alpine lake — even scenic hikes need heat safety planning"
 ---
 
 Summer is the most dangerous season for French Bulldogs. That's not an exaggeration — heatstroke is one of the leading causes of preventable death in brachycephalic breeds, and Frenchies are among the most vulnerable.
 
 George has had one mild heat episode (excessive panting and drooling on a 27°C day), and it was terrifying enough that I now treat summer preparation like a military operation. Here's everything I've learned about keeping a French Bulldog safe when temperatures rise.
+
+![George wading in a river to cool down](/images/george/web/george-34.jpg)
+*George cooling off in the river — water access is the best defence against overheating*
 
 ## Why French Bulldogs Can't Handle Heat
 

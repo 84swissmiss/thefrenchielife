@@ -6,6 +6,10 @@ tags: ["french bulldog", "dog food", "sensitive stomach", "allergies"]
 categories: ["reviews"]
 ShowToc: true
 TocOpen: false
+cover:
+  image: "/images/george/web/george-23.jpg"
+  alt: "George the French Bulldog on an orange mat chewing a natural chew"
+  caption: "George enjoying his favourite natural chew"
 ---
 
 Feeding a French Bulldog is more complicated than it should be. George has a sensitive stomach, skin allergies triggered by certain proteins, and the Frenchie tendency to inhale food so fast he makes himself sick. Finding the right food took months of trial and error — and a few vet bills.

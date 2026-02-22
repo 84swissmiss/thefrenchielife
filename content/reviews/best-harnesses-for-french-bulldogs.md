@@ -6,6 +6,10 @@ tags: ["french bulldog", "harness", "no-pull harness", "walking gear"]
 categories: ["reviews"]
 ShowToc: true
 TocOpen: false
+cover:
+  image: "/images/george/web/george-harness-walk.jpg"
+  alt: "George the French Bulldog on a forest walk wearing a black harness"
+  caption: "George testing harnesses on our daily walks"
 ---
 
 Finding the best harness for a French Bulldog isn't as simple as picking the top-rated one on Amazon. Frenchies have a unique body shape — barrel chest, short neck, compact build — and most standard harnesses either chafe, restrict breathing, or get Houdini'd off in seconds.
@@ -13,6 +17,9 @@ Finding the best harness for a French Bulldog isn't as simple as picking the top
 I've tested dozens of harnesses on George, my French Bulldog, over the past few years. Some were great. Most were terrible. A few were actually dangerous for a brachycephalic breed.
 
 Here are the 7 harnesses that actually work for French Bulldogs, ranked by real-world use.
+
+![George walking by a lake wearing a turquoise harness](/images/george/web/george-06.jpg)
+*George testing the turquoise step-in harness at the lake*
 
 ## What to Look for in a French Bulldog Harness
 
@@ -195,6 +202,9 @@ Getting the right size is crucial. Here's how to measure:
 3. **Weight** — Most adult Frenchies are 8-14kg. Use this as a secondary reference for sizing charts.
 
 > **Pro tip:** If your Frenchie is between sizes, always size up. You can tighten a too-big harness, but you can't expand a too-small one. And a tight harness on a brachycephalic breed is a recipe for breathing problems.
+
+![George at an alpine lake with his turquoise harness](/images/george/web/george-25.jpg)
+*George hiking at the alpine lake — the turquoise harness held up beautifully on this trail*
 
 ## My Pick for Most Frenchie Owners
 

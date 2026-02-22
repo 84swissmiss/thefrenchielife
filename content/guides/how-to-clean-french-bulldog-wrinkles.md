@@ -6,6 +6,10 @@ tags: ["french bulldog", "wrinkle care", "grooming", "skin care"]
 categories: ["guides"]
 ShowToc: true
 TocOpen: false
+cover:
+  image: "/images/george/web/george-31.jpg"
+  alt: "George the French Bulldog on the bathroom floor with expressive eyes"
+  caption: "George ready for his wrinkle care routine"
 ---
 
 Those adorable French Bulldog wrinkles? They're also bacteria magnets. The skin folds on a Frenchie's face trap moisture, dirt, food particles, tears, and drool — creating the perfect environment for yeast and bacterial infections.
@@ -13,6 +17,9 @@ Those adorable French Bulldog wrinkles? They're also bacteria magnets. The skin 
 George gets fold dermatitis if I skip wrinkle care for more than a few days. The symptoms: red, irritated skin in the folds, a yeasty/musty smell, and visible gunk between the wrinkles. Left untreated, it progresses to painful sores and infection.
 
 The good news: with a simple routine (5 minutes, 2-3 times per week), you can prevent almost all wrinkle-related problems.
+
+![George under a coffee table with an expressive face](/images/george/web/george-under-table.jpg)
+*George hiding under the table — those wrinkles are adorable but need regular cleaning*
 
 ## Why Wrinkle Care Matters
 

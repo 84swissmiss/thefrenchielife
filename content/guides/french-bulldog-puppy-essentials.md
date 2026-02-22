@@ -6,6 +6,10 @@ tags: ["french bulldog", "puppy", "checklist", "new owner"]
 categories: ["guides"]
 ShowToc: true
 TocOpen: false
+cover:
+  image: "/images/george/web/george-10.jpg"
+  alt: "Puppy George the French Bulldog on paving stones with blue eyes"
+  caption: "George as a puppy — those blue eyes didn't last but the cuteness did"
 ---
 
 Bringing home a French Bulldog puppy is one of the most exciting things you'll ever do. It's also slightly terrifying, because these little potatoes come with more specific needs than most people expect. 
@@ -14,7 +18,13 @@ When I brought George home, I thought I was prepared. I was not. I spent the fir
 
 This guide is everything I wish someone had told me before day one. Consider it your complete French Bulldog puppy shopping list, organized by priority.
 
+![Puppy George sleeping in a black pet carrier](/images/george/web/george-14.jpg)
+*George's first carrier — essential for bringing your puppy home safely*
+
 ## The Essentials (Get These Before Puppy Comes Home)
+
+![Puppy George on the couch in a yellow raincoat with a pig toy](/images/george/web/george-19.jpg)
+*George in his first raincoat — yes, puppies need weather gear too*
 
 ### Food & Water
 

@@ -6,6 +6,10 @@ tags: ["french bulldog", "dog toys", "chew toys", "durable toys"]
 categories: ["reviews"]
 ShowToc: true
 TocOpen: false
+cover:
+  image: "/images/george/web/george-playground-toy.jpg"
+  alt: "George the French Bulldog at the playground with a rope toy"
+  caption: "George with his favourite rope toy at the playground"
 ---
 
 French Bulldogs have powerful jaws packed into a small package. George has destroyed "indestructible" toys in under 10 minutes. Stuffed animals? Gone in seconds. Tennis balls? Shredded. Those cute rope toys? Turned into a pile of string that I then had to fish out of his mouth before he swallowed it.
@@ -18,6 +22,9 @@ Finding toys that are genuinely durable, safe for flat-faced breeds, and actuall
 - **Size-appropriate** — Too small and it's a choking hazard. Too big and they can't pick it up. Frenchies need medium-sized toys.
 - **Brachycephalic-friendly** — Frenchies can't grip round balls as easily due to their flat face. Look for toys with handles, odd shapes, or textured surfaces they can grab.
 - **Non-toxic materials** — Natural rubber, food-grade silicone, and BPA-free plastics only. Frenchies chew hard, so material safety matters.
+
+![Puppy George on a balcony with an orange ball](/images/george/web/george-13.jpg)
+*George as a puppy — already testing toys on the balcony*
 - **Interactive options** — Frenchies are smart and get bored easily. Puzzle toys and treat dispensers provide mental stimulation.
 
 ## Best Chew Toys

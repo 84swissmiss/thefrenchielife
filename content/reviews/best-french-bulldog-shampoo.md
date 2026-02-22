@@ -6,6 +6,10 @@ tags: ["french bulldog", "shampoo", "skin care", "grooming"]
 categories: ["reviews"]
 ShowToc: true
 TocOpen: false
+cover:
+  image: "/images/george/web/george-31.jpg"
+  alt: "George the French Bulldog on the bathroom floor looking up with expressive eyes"
+  caption: "George's 'do I really need a bath?' face"
 ---
 
 Bathing a French Bulldog isn't just about keeping them clean — it's skincare. Frenchies have some of the most sensitive skin of any breed, and the wrong shampoo can trigger allergic reactions, dry out their skin, strip natural oils, and make existing problems worse.
