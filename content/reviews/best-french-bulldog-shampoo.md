@@ -46,7 +46,7 @@ Virbac Epi-Soothe is the shampoo our vet recommended when George's skin was at i
 
 **Price:** ~€12-18 for 250ml
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Virbac+Epi+Soothe+shampoo+dog&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0761X8LDR?tag=focushack-21)
 
 ---
 
@@ -67,7 +67,7 @@ If your Frenchie has recurring skin fold infections, yeast problems (that distin
 
 **Price:** ~€15-25 for 250ml
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Malaseb+medicated+shampoo+dog&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B01BLDGA0S?tag=focushack-21)
 
 ---
 
@@ -87,7 +87,7 @@ For Frenchie owners who prefer natural ingredients, Earthbath Oatmeal & Aloe is 
 
 **Price:** ~€10-15 for 472ml
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Earthbath+Oatmeal+Aloe+dog+shampoo&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0002IEYIE?tag=focushack-21)
 
 ---
 
@@ -107,7 +107,7 @@ Douxo S3 CALM is a veterinary dermatology-grade shampoo designed for dogs with a
 
 **Price:** ~€15-22 for 200ml
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Douxo+S3+CALM+shampoo+dog&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0883QM8QN?tag=focushack-21)
 
 ---
 
@@ -128,7 +128,7 @@ This is a slightly unconventional recommendation: Bioderma ABCDerm is actually a
 
 **Price:** ~€8-12 for 200ml
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Bioderma+ABCDerm+gentle+shampoo&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0052EF5A4?tag=focushack-21)
 
 ---
 
@@ -148,7 +148,7 @@ Burt's Bees makes a solid, affordable oatmeal dog shampoo that's gentle enough f
 
 **Price:** ~€8-12 for 473ml
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Burts+Bees+oatmeal+dog+shampoo&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B00DTEV54Y?tag=focushack-21)
 
 ---
 
@@ -167,7 +167,7 @@ If your Frenchie's primary issue is dry, flaky skin (rather than allergies or in
 
 **Price:** ~€10-15 for 237ml
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Vetoquinol+aloe+oatmeal+dog+shampoo&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0002IEYIE?tag=focushack-21)
 
 ---
 

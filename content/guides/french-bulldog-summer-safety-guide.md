@@ -89,31 +89,31 @@ If your Frenchie shows serious heatstroke signs:
 ### Cooling Vest
 A cooling vest is the single most important piece of summer gear for a Frenchie. It provides active temperature regulation during walks and outdoor time.
 
-**My recommendation:** [Ruffwear Swamp Cooler](https://www.amazon.de/s?k=Ruffwear+Swamp+Cooler+dog+cooling+vest&tag=focushack-21), evaporative cooling with reflective outer layer.
+**My recommendation:** [Ruffwear Swamp Cooler](https://www.amazon.de/dp/B01MZ9D28N?tag=focushack-21), evaporative cooling with reflective outer layer.
 
 Read my full review: [Best Cooling Vests for French Bulldogs](/reviews/best-cooling-vests-french-bulldogs/)
 
 ### Cooling Mat
 For indoor temperature regulation. Gel-based mats absorb body heat without electricity.
 
-**My recommendation:** [Pecute Cooling Dog Mat](https://www.amazon.de/s?k=Pecute+cooling+dog+bed+mat+medium&tag=focushack-21), pressure-activated, no electricity needed.
+**My recommendation:** [Pecute Cooling Dog Mat](https://www.amazon.de/dp/B08M3Z28NL?tag=focushack-21), pressure-activated, no electricity needed.
 
 ### Portable Water Bottle
 Always carry water on walks. Dog-specific bottles with built-in bowls make drinking easier for flat-faced breeds.
 
-**My recommendation:** [MalsiPree Dog Water Bottle](https://www.amazon.de/s?k=MalsiPree+dog+water+bottle&tag=focushack-21), leak-proof, one-handed operation.
+**My recommendation:** [MalsiPree Dog Water Bottle](https://www.amazon.de/dp/B07FRV9XSF?tag=focushack-21), leak-proof, one-handed operation.
 
 ### Paw Protection
 Hot pavement can burn paw pads. If the ground is too hot for the back of your hand (hold for 5 seconds), it's too hot for your dog.
 
 **Options:**
-- [Dog paw wax/balm](https://www.amazon.de/s?k=dog+paw+wax+balm+summer&tag=focushack-21): creates a protective barrier
-- [Dog boots](https://www.amazon.de/s?k=dog+boots+summer+heat+small&tag=focushack-21): full protection, but many Frenchies hate them
+- [Dog paw wax/balm](https://www.amazon.de/dp/B0002XIZXY?tag=focushack-21): creates a protective barrier
+- [Dog boots](https://www.amazon.de/dp/B0CBNZMH1N?tag=focushack-21): full protection, but many Frenchies hate them
 
 ### Elevated Bed
 An elevated/cot-style bed allows air to circulate underneath your Frenchie, preventing heat buildup.
 
-**My recommendation:** [Coolaroo Elevated Pet Bed](https://www.amazon.de/s?k=Coolaroo+elevated+pet+bed+medium&tag=focushack-21)
+**My recommendation:** [Coolaroo Elevated Pet Bed](https://www.amazon.de/dp/B07VKPQZX8?tag=focushack-21)
 
 ## Daily Summer Routine for French Bulldogs
 

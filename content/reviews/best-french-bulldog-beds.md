@@ -46,7 +46,7 @@ This is George's daily driver and has been for over a year. The egg-crate orthop
 
 **Price:** ~€30-40
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Bedsure+orthopedic+dog+bed+bolster+medium&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B095JZL5SR?tag=focushack-21)
 
 ---
 
@@ -65,7 +65,7 @@ If budget isn't your primary concern, the PetFusion is the best orthopedic bed I
 
 **Price:** ~€80-110
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=PetFusion+Ultimate+Dog+Lounge+medium&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B017J9KKJ0?tag=focushack-21)
 
 ---
 
@@ -84,7 +84,7 @@ When temperatures climb above 22°C, George turns into a dramatically overheatin
 
 **Price:** ~€20-30
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Pecute+cooling+dog+bed+mat+medium&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B08M3Z28NL?tag=focushack-21)
 
 ---
 
@@ -104,7 +104,7 @@ This German-made bed is essentially a Frenchie fortress. High bolsters on all si
 
 **Price:** ~€50-70
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Knuffelwuff+orthopedic+dog+bed+Madison&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B071CYTLPQ?tag=focushack-21)
 
 ---
 
@@ -124,7 +124,7 @@ A completely different approach: the Coolaroo is an elevated cot-style bed that 
 
 **Price:** ~€25-40
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Coolaroo+elevated+pet+bed+medium&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B07VKPQZX8?tag=focushack-21)
 
 ---
 
@@ -143,7 +143,7 @@ If you want orthopedic support without breaking the bank, the Furhaven delivers.
 
 **Price:** ~€25-35
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Furhaven+orthopedic+plush+suede+sofa+dog+bed+medium&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B07VTRKYLX?tag=focushack-21)
 
 ---
 
@@ -162,7 +162,7 @@ French Bulldogs and allergies go together like peanut butter and jelly (unfortun
 
 **Price:** ~€40-55
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Hunter+Boston+dog+bed+medium&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B00E62IR12?tag=focushack-21)
 
 ---
 

@@ -54,20 +54,20 @@ George gets a full wrinkle clean every other day, with quick wipes after meals.
 ### Recommended Products
 
 **For daily cleaning:**
-- [Fragrance-free baby wipes](https://www.amazon.de/s?k=fragrance+free+baby+wipes&tag=focushack-21, Simple, effective, affordable
-- [Petpost Bulldog Wrinkle Wipes](https://www.amazon.de/s?k=Petpost+bulldog+wrinkle+wipes&tag=focushack-21, Specifically designed for breed skin folds
+- [Fragrance-free baby wipes](https://www.amazon.de/dp/B07DRFTY4N?tag=focushack-21, Simple, effective, affordable
+- [Petpost Bulldog Wrinkle Wipes](https://www.amazon.de/dp/B07DRFTY4N?tag=focushack-21, Specifically designed for breed skin folds
 
 **For drying:**
 - Gauze pads (cheap, disposable, lint-free)
 - Soft microfiber cloth (washable, reusable)
 
 **For protection (after cleaning):**
-- [Natural Dog Company Wrinkle Balm](https://www.amazon.de/s?k=Natural+Dog+Company+Wrinkle+Balm&tag=focushack-21, Organic, soothing, creates a protective barrier
-- [Squishface Wrinkle Paste](https://www.amazon.de/s?k=Squishface+Wrinkle+Paste&tag=focushack-21, Water-repellent paste that keeps folds dry between cleanings
+- [Natural Dog Company Wrinkle Balm](https://www.amazon.de/dp/B07CJNZLFM?tag=focushack-21, Organic, soothing, creates a protective barrier
+- [Squishface Wrinkle Paste](https://www.amazon.de/dp/B01JH2DG8O?tag=focushack-21, Water-repellent paste that keeps folds dry between cleanings
 
 **For infections (vet-directed):**
-- [Douxo S3 CALM Mousse](https://www.amazon.de/s?k=Douxo+S3+CALM+mousse+dog&tag=focushack-21, Anti-irritation mousse for targeted fold treatment
-- [Chlorhexidine wipes](https://www.amazon.de/s?k=chlorhexidine+wipes+dog&tag=focushack-21, Antibacterial for active infections (use only as directed by vet)
+- [Douxo S3 CALM Mousse](https://www.amazon.de/dp/B0883QM8QN?tag=focushack-21, Anti-irritation mousse for targeted fold treatment
+- [Chlorhexidine wipes](https://www.amazon.de/dp/B073HFC82B?tag=focushack-21, Antibacterial for active infections (use only as directed by vet)
 
 ## Step-by-Step Wrinkle Cleaning Routine
 

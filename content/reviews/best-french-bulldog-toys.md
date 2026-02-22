@@ -45,7 +45,7 @@ The KONG Classic has survived longer in George's possession than any other toy. 
 
 **Price:** ~€8-12
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=KONG+Classic+medium+dog+toy&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B000AYN7LU?tag=focushack-21)
 
 ---
 
@@ -64,7 +64,7 @@ The Benebone Wishbone is infused with real flavor (bacon, chicken, or peanut) th
 
 **Price:** ~€10-15
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Benebone+Wishbone+dog+chew+medium&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B014JY9E9U?tag=focushack-21)
 
 ---
 
@@ -81,7 +81,7 @@ If the regular KONG Classic isn't tough enough (and for some Frenchies, it isn't
 
 **Price:** ~€10-15
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=KONG+Extreme+medium+dog+toy&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B07D1FVL2M?tag=focushack-21)
 
 ---
 
@@ -103,7 +103,7 @@ Mental stimulation is just as important as physical exercise for Frenchies, mayb
 
 **Price:** ~€15-25
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Nina+Ottosson+Dog+Tornado+puzzle&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B087DNRV39?tag=focushack-21)
 
 ---
 
@@ -121,7 +121,7 @@ A Lickimat isn't technically a toy, but it's one of George's most-used items. Sp
 
 **Price:** ~€8-12
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Lickimat+Classic+dog&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B089DPFY2F?tag=focushack-21)
 
 ---
 
@@ -142,7 +142,7 @@ Regular tennis balls are too big and fuzzy for most Frenchies. The Chuckit! Ultr
 
 **Price:** ~€5-8 (2-pack)
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Chuckit+Ultra+Ball+medium&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B000F4AVPA?tag=focushack-21)
 
 ---
 
@@ -161,7 +161,7 @@ This combines tug, treat dispensing, and puzzle-solving in one toy. Fill it with
 
 **Price:** ~€10-18
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=PetSafe+Tug+A+Jug+dog+toy&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B005BOMS50?tag=focushack-21)
 
 ---
 

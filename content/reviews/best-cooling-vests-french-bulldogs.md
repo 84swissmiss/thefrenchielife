@@ -51,7 +51,7 @@ The Ruffwear Swamp Cooler is the cooling vest I trust most with George's safety.
 
 **Price:** ~€40-55
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Ruffwear+Swamp+Cooler+dog+cooling+vest&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B01MZ9D28N?tag=focushack-21)
 
 ---
 
@@ -72,7 +72,7 @@ Finnish brand Hurtta knows extreme weather. Their cooling vest holds more water 
 
 **Price:** ~€45-60
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Hurtta+cooling+vest+dog&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B08TYKCX5Y?tag=focushack-21)
 
 ---
 
@@ -94,7 +94,7 @@ The Trixie cooling vest does the basics well at a fraction of the price. Soak it
 
 **Price:** ~€15-20
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Trixie+cooling+vest+dog&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B07DWV8S5V?tag=focushack-21)
 
 ---
 
@@ -115,7 +115,7 @@ Sometimes you don't need a full vest. For quick outings, car rides, or mild warm
 
 **Price:** ~€10-15
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=dog+cooling+bandana&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0C68LQXSP?tag=focushack-21)
 
 ---
 
@@ -136,7 +136,7 @@ For humid climates where evaporative cooling doesn't work well, phase-change tec
 
 **Price:** ~€35-50
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=CoolPets+cooling+vest+dog&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B08L6P3PBJ?tag=focushack-21)
 
 ---
 

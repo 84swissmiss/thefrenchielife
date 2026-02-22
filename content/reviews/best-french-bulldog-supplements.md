@@ -39,7 +39,7 @@ YuMOVE is the UK's #1 vet-recommended joint supplement, and it's earned that rep
 
 **Price:** ~€25-35 for 60 tablets
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=YuMOVE+joint+supplement+dog&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B003W5RRGU?tag=focushack-21)
 
 ---
 
@@ -59,7 +59,7 @@ If your vet recommends a joint supplement, there's a good chance they'll suggest
 
 **Price:** ~€30-45 for 60 tablets
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Seraquin+dog+supplement&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B00I0VX98G?tag=focushack-21)
 
 ---
 
@@ -85,7 +85,7 @@ Pure wild Alaskan salmon oil is one of the simplest and most effective supplemen
 
 **Price:** ~€15-25 for 250ml
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Grizzly+salmon+oil+dog&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0053PE1HA?tag=focushack-21)
 
 ---
 
@@ -106,7 +106,7 @@ From the same makers as YuMOVE, YuDERM is specifically designed for dogs with it
 
 **Price:** ~€15-25 for 250ml
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=YuDERM+itching+dog&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B07X2628SW?tag=focushack-21)
 
 ---
 
@@ -132,7 +132,7 @@ FortiFlora is the probiotic most commonly recommended by vets for dogs with dige
 
 **Price:** ~€25-35 for 30 sachets
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Purina+Pro+Plan+FortiFlora+dog&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B001650NNW?tag=focushack-21)
 
 ---
 
@@ -153,7 +153,7 @@ When George has an upset stomach (usually from eating something he shouldn't hav
 
 **Price:** ~€15-20 for 30ml syringe
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Protexin+Pro+Kolin+dog&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B003Y3XLH4?tag=focushack-21)
 
 ---
 
@@ -176,7 +176,7 @@ If you want a single supplement that covers joints, skin, digestion, and general
 
 **Price:** ~€25-35 for 90 chews
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Zesty+Paws+Multivitamin+Bites+dog&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0CKHRL2JG?tag=focushack-21)
 
 ---
 

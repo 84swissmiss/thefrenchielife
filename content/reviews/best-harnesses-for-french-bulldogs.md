@@ -48,7 +48,7 @@ The Julius-K9 is the gold standard for French Bulldogs, and for good reason. The
 
 **Price:** ~€30-40
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Julius+K9+IDC+Powerharness+size+0&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0041VQH8I?tag=focushack-21)
 
 ---
 
@@ -67,7 +67,7 @@ If George is feeling particularly pigeon-obsessed, this is the harness I reach f
 
 **Price:** ~€40-50
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Ruffwear+Front+Range+Harness&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0CLB6FGZR?tag=focushack-21)
 
 ---
 
@@ -86,7 +86,7 @@ George went through a phase of skin irritation from harness rubbing. The Curli B
 
 **Price:** ~€35-45
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Curli+Belka+Comfort+Harness&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B07FR2KPD2?tag=focushack-21)
 
 ---
 
@@ -105,7 +105,7 @@ For Frenchie owners on a budget who need pulling control, the PetSafe Easy Walk 
 
 **Price:** ~€15-25
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=PetSafe+Easy+Walk+Harness+small&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B07WPFWCPJ?tag=focushack-21)
 
 ---
 
@@ -125,7 +125,7 @@ The Rabbitgoo has become a Frenchie owner favorite, and the price-to-quality rat
 
 **Price:** ~€15-20
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Rabbitgoo+No+Pull+Dog+Harness+small&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B01M6YASY1?tag=focushack-21)
 
 ---
 
@@ -145,7 +145,7 @@ If your Frenchie is more athletic than the stereotype suggests (George has his m
 
 **Price:** ~€50-65
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Hurtta+Active+Harness+small&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B00T7L821C?tag=focushack-21)
 
 ---
 
@@ -164,7 +164,7 @@ This is the summer version of our #1 pick. Julius-K9 designed this specifically 
 
 **Price:** ~€35-45
 
-👉 [Check price on Amazon.de](https://www.amazon.de/s?k=Julius+K9+IDC+Longwalk+Harness&tag=focushack-21)
+👉 [Check price on Amazon.de](https://www.amazon.de/dp/B085QJJ649?tag=focushack-21)
 
 ---
 
