@@ -12,6 +12,8 @@ cover:
   caption: "George with his dental chew, supplements are part of his daily routine"
 ---
 
+This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you.
+
 French Bulldogs are wonderful dogs with a laundry list of health predispositions. Joint issues, skin problems, digestive sensitivity, these aren't possibilities, they're probabilities. The right supplements can make a meaningful difference in your Frenchie's quality of life, especially as they age.
 
 George started joint supplements at age 3 (on our vet's recommendation) and skin supplements at age 2 (when his allergies first appeared). The difference was noticeable within weeks.
@@ -39,7 +41,7 @@ YuMOVE is the UK's #1 vet-recommended joint supplement, and it's earned that rep
 
 **Price:** ~€25-35 for 60 tablets
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B003W5RRGU?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B003W5RRGU?tag=focushack-20)
 
 ---
 
@@ -59,7 +61,7 @@ If your vet recommends a joint supplement, there's a good chance they'll suggest
 
 **Price:** ~€30-45 for 60 tablets
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B00I0VX98G?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B00I0VX98G?tag=focushack-20)
 
 ---
 
@@ -85,7 +87,7 @@ Pure wild Alaskan salmon oil is one of the simplest and most effective supplemen
 
 **Price:** ~€15-25 for 250ml
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0053PE1HA?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B0053PE1HA?tag=focushack-20)
 
 ---
 
@@ -106,7 +108,7 @@ From the same makers as YuMOVE, YuDERM is specifically designed for dogs with it
 
 **Price:** ~€15-25 for 250ml
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B07X2628SW?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B07X2628SW?tag=focushack-20)
 
 ---
 
@@ -132,7 +134,7 @@ FortiFlora is the probiotic most commonly recommended by vets for dogs with dige
 
 **Price:** ~€25-35 for 30 sachets
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B001650NNW?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B001650NNW?tag=focushack-20)
 
 ---
 
@@ -153,7 +155,7 @@ When George has an upset stomach (usually from eating something he shouldn't hav
 
 **Price:** ~€15-20 for 30ml syringe
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B003Y3XLH4?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B003Y3XLH4?tag=focushack-20)
 
 ---
 
@@ -176,7 +178,7 @@ If you want a single supplement that covers joints, skin, digestion, and general
 
 **Price:** ~€25-35 for 90 chews
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0CKHRL2JG?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B0CKHRL2JG?tag=focushack-20)
 
 ---
 

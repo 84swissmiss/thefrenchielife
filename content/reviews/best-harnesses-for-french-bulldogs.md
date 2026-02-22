@@ -12,6 +12,8 @@ cover:
   caption: "George testing harnesses on our daily walks"
 ---
 
+This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you.
+
 Finding the best harness for a French Bulldog isn't as simple as picking the top-rated one on Amazon. Frenchies have a unique body shape (barrel chest, short neck, compact build) and most standard harnesses either chafe, restrict breathing, or get Houdini'd off in seconds.
 
 I've tested dozens of harnesses on George, my French Bulldog, over the past few years. Some were great. Most were terrible. A few were actually dangerous for a brachycephalic breed.
@@ -48,7 +50,7 @@ The Julius-K9 is the gold standard for French Bulldogs, and for good reason. The
 
 **Price:** ~€30-40
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0041VQH8I?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B0041VQH8I?tag=focushack-20)
 
 ---
 
@@ -67,7 +69,7 @@ If George is feeling particularly pigeon-obsessed, this is the harness I reach f
 
 **Price:** ~€40-50
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0CLB6FGZR?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B0CLB6FGZR?tag=focushack-20)
 
 ---
 
@@ -86,7 +88,7 @@ George went through a phase of skin irritation from harness rubbing. The Curli B
 
 **Price:** ~€35-45
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B07FR2KPD2?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B07FR2KPD2?tag=focushack-20)
 
 ---
 
@@ -105,7 +107,7 @@ For Frenchie owners on a budget who need pulling control, the PetSafe Easy Walk 
 
 **Price:** ~€15-25
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B07WPFWCPJ?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B07WPFWCPJ?tag=focushack-20)
 
 ---
 
@@ -125,7 +127,7 @@ The Rabbitgoo has become a Frenchie owner favorite, and the price-to-quality rat
 
 **Price:** ~€15-20
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B01M6YASY1?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B01M6YASY1?tag=focushack-20)
 
 ---
 
@@ -145,7 +147,7 @@ If your Frenchie is more athletic than the stereotype suggests (George has his m
 
 **Price:** ~€50-65
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B00T7L821C?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B00T7L821C?tag=focushack-20)
 
 ---
 
@@ -164,7 +166,7 @@ This is the summer version of our #1 pick. Julius-K9 designed this specifically 
 
 **Price:** ~€35-45
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B085QJJ649?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B085QJJ649?tag=focushack-20)
 
 ---
 

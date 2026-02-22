@@ -12,6 +12,8 @@ cover:
   caption: "George ready for his wrinkle care routine"
 ---
 
+This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you.
+
 Those adorable French Bulldog wrinkles? They're also bacteria magnets. The skin folds on a Frenchie's face trap moisture, dirt, food particles, tears, and drool, creating the perfect environment for yeast and bacterial infections.
 
 George gets fold dermatitis if I skip wrinkle care for more than a few days. The symptoms: red, irritated skin in the folds, a yeasty/musty smell, and visible gunk between the wrinkles. Left untreated, it progresses to painful sores and infection.
@@ -54,20 +56,20 @@ George gets a full wrinkle clean every other day, with quick wipes after meals.
 ### Recommended Products
 
 **For daily cleaning:**
-- [Fragrance-free baby wipes](https://www.amazon.de/dp/B07DRFTY4N?tag=focushack-21, Simple, effective, affordable
-- [Petpost Bulldog Wrinkle Wipes](https://www.amazon.de/dp/B07DRFTY4N?tag=focushack-21, Specifically designed for breed skin folds
+- [Fragrance-free baby wipes](https://www.amazon.com/dp/B07DRFTY4N?tag=focushack-20) Simple, effective, affordable
+- [Petpost Bulldog Wrinkle Wipes](https://www.amazon.com/dp/B07DRFTY4N?tag=focushack-20) Specifically designed for breed skin folds
 
 **For drying:**
 - Gauze pads (cheap, disposable, lint-free)
 - Soft microfiber cloth (washable, reusable)
 
 **For protection (after cleaning):**
-- [Natural Dog Company Wrinkle Balm](https://www.amazon.de/dp/B07CJNZLFM?tag=focushack-21, Organic, soothing, creates a protective barrier
-- [Squishface Wrinkle Paste](https://www.amazon.de/dp/B01JH2DG8O?tag=focushack-21, Water-repellent paste that keeps folds dry between cleanings
+- [Natural Dog Company Wrinkle Balm](https://www.amazon.com/dp/B07CJNZLFM?tag=focushack-20) Organic, soothing, creates a protective barrier
+- [Squishface Wrinkle Paste](https://www.amazon.com/dp/B01JH2DG8O?tag=focushack-20) Water-repellent paste that keeps folds dry between cleanings
 
 **For infections (vet-directed):**
-- [Douxo S3 CALM Mousse](https://www.amazon.de/dp/B0883QM8QN?tag=focushack-21, Anti-irritation mousse for targeted fold treatment
-- [Chlorhexidine wipes](https://www.amazon.de/dp/B073HFC82B?tag=focushack-21, Antibacterial for active infections (use only as directed by vet)
+- [Douxo S3 CALM Mousse](https://www.amazon.com/dp/B0883QM8QN?tag=focushack-20) Anti-irritation mousse for targeted fold treatment
+- [Chlorhexidine wipes](https://www.amazon.com/dp/B073HFC82B?tag=focushack-20) Antibacterial for active infections (use only as directed by vet)
 
 ## Step-by-Step Wrinkle Cleaning Routine
 

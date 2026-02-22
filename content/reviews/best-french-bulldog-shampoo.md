@@ -12,6 +12,8 @@ cover:
   caption: "George's 'do I really need a bath?' face"
 ---
 
+This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you.
+
 Bathing a French Bulldog isn't just about keeping them clean, it's skincare. Frenchies have some of the most sensitive skin of any breed, and the wrong shampoo can trigger allergic reactions, dry out their skin, strip natural oils, and make existing problems worse.
 
 George's skin journey has involved trial and error with at least a dozen shampoos. Some made him itchier. One gave him hives. A few did nothing. And then there were the ones that actually worked.
@@ -46,7 +48,7 @@ Virbac Epi-Soothe is the shampoo our vet recommended when George's skin was at i
 
 **Price:** ~€12-18 for 250ml
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0761X8LDR?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B0761X8LDR?tag=focushack-20)
 
 ---
 
@@ -67,7 +69,7 @@ If your Frenchie has recurring skin fold infections, yeast problems (that distin
 
 **Price:** ~€15-25 for 250ml
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B01BLDGA0S?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B01BLDGA0S?tag=focushack-20)
 
 ---
 
@@ -87,7 +89,7 @@ For Frenchie owners who prefer natural ingredients, Earthbath Oatmeal & Aloe is 
 
 **Price:** ~€10-15 for 472ml
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0002IEYIE?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B0002IEYIE?tag=focushack-20)
 
 ---
 
@@ -107,7 +109,7 @@ Douxo S3 CALM is a veterinary dermatology-grade shampoo designed for dogs with a
 
 **Price:** ~€15-22 for 200ml
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0883QM8QN?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B0883QM8QN?tag=focushack-20)
 
 ---
 
@@ -128,7 +130,7 @@ This is a slightly unconventional recommendation: Bioderma ABCDerm is actually a
 
 **Price:** ~€8-12 for 200ml
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0052EF5A4?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B0052EF5A4?tag=focushack-20)
 
 ---
 
@@ -148,7 +150,7 @@ Burt's Bees makes a solid, affordable oatmeal dog shampoo that's gentle enough f
 
 **Price:** ~€8-12 for 473ml
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B00DTEV54Y?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B00DTEV54Y?tag=focushack-20)
 
 ---
 
@@ -167,7 +169,7 @@ If your Frenchie's primary issue is dry, flaky skin (rather than allergies or in
 
 **Price:** ~€10-15 for 237ml
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0002IEYIE?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B0002IEYIE?tag=focushack-20)
 
 ---
 

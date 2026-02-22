@@ -12,6 +12,8 @@ cover:
   caption: "George during one of our many bath-and-inspect sessions"
 ---
 
+This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you.
+
 If you have a French Bulldog with allergies, I want you to know something upfront: **it gets better.** But first, it's going to be frustrating, expensive, and confusing. You'll Google at 2am. You'll try seventeen different things. You'll feel like a terrible dog parent at least once a week.
 
 I know this because George and I lived it.
@@ -105,7 +107,7 @@ Here's what a typical day looks like:
 - **Morning:** Monoprotein grain-free kibble + Apoquel (every other day)
 - **After walks:** Quick paw wipe to remove pollen and irritants
 - **Evening:** Same food, sometimes with a monoprotein wet food topper
-- **Weekly:** Ear cleaning with a gentle, vet-approved solution (we use [Virbac Epi-Otic](https://www.amazon.de/dp/B0056EAKUA?tag=focushack-21, it's the gold standard for routine ear maintenance)
+- **Weekly:** Ear cleaning with a gentle, vet-approved solution (we use [Virbac Epi-Otic](https://www.amazon.com/dp/B0056EAKUA?tag=focushack-20) it's the gold standard for routine ear maintenance)
 - **Bi-weekly:** Bath with a hypoallergenic, fragrance-free shampoo
 - **Monthly:** Vet check-in (now down to quarterly since he's stable)
 

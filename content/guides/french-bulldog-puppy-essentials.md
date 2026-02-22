@@ -12,6 +12,8 @@ cover:
   caption: "George as a puppy, those blue eyes didn't last but the cuteness did"
 ---
 
+This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you.
+
 Bringing home a French Bulldog puppy is one of the most exciting things you'll ever do. It's also slightly terrifying, because these little potatoes come with more specific needs than most people expect. 
 
 When I brought George home, I thought I was prepared. I was not. I spent the first week frantically ordering things I didn't know I needed while George chewed on things he definitely shouldn't have.
@@ -30,16 +32,16 @@ This guide is everything I wish someone had told me before day one. Consider it 
 
 **Puppy food:** Start with whatever the breeder was feeding. Transition gradually to your chosen brand over 7-10 days. For Frenchie-specific recommendations, see our [Best Food for French Bulldogs](/reviews/best-food-for-french-bulldogs/) guide.
 
-- [Royal Canin French Bulldog Puppy](https://www.amazon.de/dp/B009H3WMZM?tag=focushack-21, breed-specific kibble shape and nutrition
+- [Royal Canin French Bulldog Puppy](https://www.amazon.com/dp/B009H3WMZM?tag=focushack-20) breed-specific kibble shape and nutrition
 - Small kibble matters. Frenchie puppies have flat faces and tiny mouths
 
 **Slow feeder bowl:** Non-negotiable for Frenchies. They inhale food, causing bloating, gas, and vomiting. A slow feeder extends mealtime from 30 seconds to 5-10 minutes.
 
-👉 [Slow feeder bowls on Amazon.de](https://www.amazon.de/dp/B0CLJ51VYC?tag=focushack-21)
+👉 [Slow feeder bowls on Amazon](https://www.amazon.com/dp/B0CLJ51VYC?tag=focushack-20)
 
 **Water bowl:** Stainless steel or ceramic (not plastic. Plastic can cause chin acne in Frenchies). Low-profile design so their flat face can reach the water easily.
 
-👉 [Stainless steel dog bowls on Amazon.de](https://www.amazon.de/dp/B08X37ZT6S?tag=focushack-21)
+👉 [Stainless steel dog bowls on Amazon](https://www.amazon.com/dp/B08X37ZT6S?tag=focushack-20)
 
 ---
 
@@ -51,7 +53,7 @@ This guide is everything I wish someone had told me before day one. Consider it 
 - Size: Small/Medium for a Frenchie puppy
 - Place it in your bedroom initially. Frenchie puppies DO NOT do well alone at night
 
-👉 [Puppy beds on Amazon.de](https://www.amazon.de/dp/B095JZL5SR?tag=focushack-21)
+👉 [Puppy beds on Amazon](https://www.amazon.com/dp/B095JZL5SR?tag=focushack-20)
 
 **Crate:** Crate training is highly recommended for Frenchie puppies. It gives them a safe den, helps with housetraining, and prevents destructive chewing when unsupervised.
 
@@ -59,7 +61,7 @@ This guide is everything I wish someone had told me before day one. Consider it 
 - Wire crates with a divider panel are ideal, you can adjust the space as they grow
 - Add a soft blanket and a cover to make it den-like
 
-👉 [Dog crates with divider on Amazon.de](https://www.amazon.de/dp/B000QFWCK0?tag=focushack-21)
+👉 [Dog crates with divider on Amazon](https://www.amazon.com/dp/B000QFWCK0?tag=focushack-20)
 
 ---
 
@@ -70,7 +72,7 @@ This guide is everything I wish someone had told me before day one. Consider it 
 - Start with an adjustable puppy harness, they grow fast
 - Graduate to a proper harness once they reach adult size (around 9-12 months)
 
-👉 [Puppy harness adjustable on Amazon.de](https://www.amazon.de/dp/B01M6YASY1?tag=focushack-21)
+👉 [Puppy harness adjustable on Amazon](https://www.amazon.com/dp/B01M6YASY1?tag=focushack-20)
 
 For adult harness recommendations, see our [Best Harnesses for French Bulldogs](/reviews/best-harnesses-for-french-bulldogs/) guide.
 
@@ -80,7 +82,7 @@ For adult harness recommendations, see our [Best Harnesses for French Bulldogs](
 
 **Poop bags:** You'll go through hundreds. Buy in bulk.
 
-👉 [Biodegradable poop bags on Amazon.de](https://www.amazon.de/dp/B0CPFQQXQ8?tag=focushack-21)
+👉 [Biodegradable poop bags on Amazon](https://www.amazon.com/dp/B0CPFQQXQ8?tag=focushack-20)
 
 ---
 
@@ -88,7 +90,7 @@ For adult harness recommendations, see our [Best Harnesses for French Bulldogs](
 
 **Baby gates:** Block off stairs and rooms you don't want the puppy in. Frenchie puppies should avoid stairs. Their joints are developing and their clumsy build makes falls likely.
 
-👉 [Baby gates for dogs on Amazon.de](https://www.amazon.de/dp/B0D3LF8Y9L?tag=focushack-21)
+👉 [Baby gates for dogs on Amazon](https://www.amazon.com/dp/B0D3LF8Y9L?tag=focushack-20)
 
 **Puppy pen/playpen:** A contained area where the puppy can play safely when you can't supervise directly.
 
@@ -125,7 +127,7 @@ For adult harness recommendations, see our [Best Harnesses for French Bulldogs](
 
 **Wrinkle wipes:** You'll be cleaning face folds from day one. Fragrance-free baby wipes or dedicated dog wrinkle wipes.
 
-👉 [Dog wrinkle wipes on Amazon.de](https://www.amazon.de/dp/B07DRFTY4N?tag=focushack-21)
+👉 [Dog wrinkle wipes on Amazon](https://www.amazon.com/dp/B07DRFTY4N?tag=focushack-20)
 
 For a complete wrinkle care routine, see our [How to Clean French Bulldog Wrinkles](/guides/how-to-clean-french-bulldog-wrinkles/) guide.
 
@@ -133,19 +135,19 @@ For a complete wrinkle care routine, see our [How to Clean French Bulldog Wrinkl
 
 **Nail clippers:** Start trimming nails early so they get used to it. Guillotine-style or grinder, whichever your puppy tolerates better.
 
-👉 [Dog nail clippers on Amazon.de](https://www.amazon.de/dp/B0002ARUKQ?tag=focushack-21)
+👉 [Dog nail clippers on Amazon](https://www.amazon.com/dp/B0002ARUKQ?tag=focushack-20)
 
 **Soft brush:** Frenchies don't need heavy grooming, but weekly brushing removes loose hair and distributes natural oils. A rubber grooming mitt works great.
 
-👉 [Rubber dog grooming mitt on Amazon.de](https://www.amazon.de/dp/B01N9KSITZ?tag=focushack-21)
+👉 [Rubber dog grooming mitt on Amazon](https://www.amazon.com/dp/B01N9KSITZ?tag=focushack-20)
 
 **Ear cleaner:** Frenchies are prone to ear infections. Weekly ear cleaning prevents buildup.
 
-👉 [Dog ear cleaner on Amazon.de](https://www.amazon.de/dp/B08YZ618NZ?tag=focushack-21)
+👉 [Dog ear cleaner on Amazon](https://www.amazon.com/dp/B08YZ618NZ?tag=focushack-20)
 
 **Dental supplies:** Start dental care early. Puppy toothbrush and enzymatic toothpaste.
 
-👉 [Puppy dental care kit on Amazon.de](https://www.amazon.de/dp/B00RP2NB6Q?tag=focushack-21)
+👉 [Puppy dental care kit on Amazon](https://www.amazon.com/dp/B00RP2NB6Q?tag=focushack-20)
 
 ---
 
@@ -158,13 +160,13 @@ Essential starter toys:
 - **Nylabone Puppy Chew.** Textured for teething relief
 - **Rope toy** (for supervised tug only, don't leave unattended)
 
-👉 [KONG Puppy toy on Amazon.de](https://www.amazon.de/dp/B0002AR182?tag=focushack-21)
+👉 [KONG Puppy toy on Amazon](https://www.amazon.com/dp/B0002AR182?tag=focushack-20)
 
 **Teething toys:** Puppies teethe from about 3-6 months. Provide cold/frozen toys for relief.
 
 **Puzzle toys:** Start mental stimulation early. Simple puzzle feeders and snuffle mats are perfect for puppies.
 
-👉 [Snuffle mat for dogs on Amazon.de](https://www.amazon.de/dp/B0B8J1QWY8?tag=focushack-21)
+👉 [Snuffle mat for dogs on Amazon](https://www.amazon.com/dp/B0B8J1QWY8?tag=focushack-20)
 
 For more toy recommendations, see our [Best Toys for French Bulldogs](/reviews/best-french-bulldog-toys/) guide.
 
@@ -178,7 +180,7 @@ For more toy recommendations, see our [Best Toys for French Bulldogs](/reviews/b
 
 **Enzymatic cleaner:** Accidents will happen. Enzymatic cleaners break down the smell so the puppy doesn't return to the same spot.
 
-👉 [Enzymatic pet cleaner on Amazon.de](https://www.amazon.de/dp/B07ZS39LV5?tag=focushack-21)
+👉 [Enzymatic pet cleaner on Amazon](https://www.amazon.com/dp/B07ZS39LV5?tag=focushack-20)
 
 **Puppy pads:** For the first few weeks of housetraining. Place near the door and gradually move outside.
 

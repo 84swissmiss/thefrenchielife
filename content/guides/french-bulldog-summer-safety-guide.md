@@ -12,6 +12,8 @@ cover:
   caption: "George at the alpine lake. Even scenic hikes need heat safety planning"
 ---
 
+This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you.
+
 Summer is the most dangerous season for French Bulldogs. That's not an exaggeration. Heatstroke is one of the leading causes of preventable death in brachycephalic breeds, and Frenchies are among the most vulnerable.
 
 George has had one mild heat episode (excessive panting and drooling on a 27°C day), and it was terrifying enough that I now treat summer preparation like a military operation. Here's everything I've learned about keeping a French Bulldog safe when temperatures rise.
@@ -89,31 +91,31 @@ If your Frenchie shows serious heatstroke signs:
 ### Cooling Vest
 A cooling vest is the single most important piece of summer gear for a Frenchie. It provides active temperature regulation during walks and outdoor time.
 
-**My recommendation:** [Ruffwear Swamp Cooler](https://www.amazon.de/dp/B01MZ9D28N?tag=focushack-21), evaporative cooling with reflective outer layer.
+**My recommendation:** [Ruffwear Swamp Cooler](https://www.amazon.com/dp/B01MZ9D28N?tag=focushack-20), evaporative cooling with reflective outer layer.
 
 Read my full review: [Best Cooling Vests for French Bulldogs](/reviews/best-cooling-vests-french-bulldogs/)
 
 ### Cooling Mat
 For indoor temperature regulation. Gel-based mats absorb body heat without electricity.
 
-**My recommendation:** [Pecute Cooling Dog Mat](https://www.amazon.de/dp/B08M3Z28NL?tag=focushack-21), pressure-activated, no electricity needed.
+**My recommendation:** [Pecute Cooling Dog Mat](https://www.amazon.com/dp/B08M3Z28NL?tag=focushack-20), pressure-activated, no electricity needed.
 
 ### Portable Water Bottle
 Always carry water on walks. Dog-specific bottles with built-in bowls make drinking easier for flat-faced breeds.
 
-**My recommendation:** [MalsiPree Dog Water Bottle](https://www.amazon.de/dp/B07FRV9XSF?tag=focushack-21), leak-proof, one-handed operation.
+**My recommendation:** [MalsiPree Dog Water Bottle](https://www.amazon.com/dp/B07FRV9XSF?tag=focushack-20), leak-proof, one-handed operation.
 
 ### Paw Protection
 Hot pavement can burn paw pads. If the ground is too hot for the back of your hand (hold for 5 seconds), it's too hot for your dog.
 
 **Options:**
-- [Dog paw wax/balm](https://www.amazon.de/dp/B0002XIZXY?tag=focushack-21): creates a protective barrier
-- [Dog boots](https://www.amazon.de/dp/B0CBNZMH1N?tag=focushack-21): full protection, but many Frenchies hate them
+- [Dog paw wax/balm](https://www.amazon.com/dp/B0002XIZXY?tag=focushack-20): creates a protective barrier
+- [Dog boots](https://www.amazon.com/dp/B0CBNZMH1N?tag=focushack-20): full protection, but many Frenchies hate them
 
 ### Elevated Bed
 An elevated/cot-style bed allows air to circulate underneath your Frenchie, preventing heat buildup.
 
-**My recommendation:** [Coolaroo Elevated Pet Bed](https://www.amazon.de/dp/B07VKPQZX8?tag=focushack-21)
+**My recommendation:** [Coolaroo Elevated Pet Bed](https://www.amazon.com/dp/B07VKPQZX8?tag=focushack-20)
 
 ## Daily Summer Routine for French Bulldogs
 

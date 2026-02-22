@@ -12,6 +12,8 @@ cover:
   caption: "George with his favourite rope toy at the playground"
 ---
 
+This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you.
+
 French Bulldogs have powerful jaws packed into a small package. George has destroyed "indestructible" toys in under 10 minutes. Stuffed animals? Gone in seconds. Tennis balls? Shredded. Those cute rope toys? Turned into a pile of string that I then had to fish out of his mouth before he swallowed it.
 
 Finding toys that are genuinely durable, safe for flat-faced breeds, and actually fun for Frenchies has been a journey. Here are the ones that survived George's testing, and the ones you should avoid.
@@ -45,7 +47,7 @@ The KONG Classic has survived longer in George's possession than any other toy. 
 
 **Price:** ~€8-12
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B000AYN7LU?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B000AYN7LU?tag=focushack-20)
 
 ---
 
@@ -64,7 +66,7 @@ The Benebone Wishbone is infused with real flavor (bacon, chicken, or peanut) th
 
 **Price:** ~€10-15
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B014JY9E9U?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B014JY9E9U?tag=focushack-20)
 
 ---
 
@@ -81,7 +83,7 @@ If the regular KONG Classic isn't tough enough (and for some Frenchies, it isn't
 
 **Price:** ~€10-15
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B07D1FVL2M?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B07D1FVL2M?tag=focushack-20)
 
 ---
 
@@ -103,7 +105,7 @@ Mental stimulation is just as important as physical exercise for Frenchies, mayb
 
 **Price:** ~€15-25
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B087DNRV39?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B087DNRV39?tag=focushack-20)
 
 ---
 
@@ -121,7 +123,7 @@ A Lickimat isn't technically a toy, but it's one of George's most-used items. Sp
 
 **Price:** ~€8-12
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B089DPFY2F?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B089DPFY2F?tag=focushack-20)
 
 ---
 
@@ -142,7 +144,7 @@ Regular tennis balls are too big and fuzzy for most Frenchies. The Chuckit! Ultr
 
 **Price:** ~€5-8 (2-pack)
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B000F4AVPA?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B000F4AVPA?tag=focushack-20)
 
 ---
 
@@ -161,7 +163,7 @@ This combines tug, treat dispensing, and puzzle-solving in one toy. Fill it with
 
 **Price:** ~€10-18
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B005BOMS50?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B005BOMS50?tag=focushack-20)
 
 ---
 

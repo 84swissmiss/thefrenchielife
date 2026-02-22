@@ -12,6 +12,8 @@ cover:
   caption: "George's favourite way to beat the heat"
 ---
 
+This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you.
+
 If there's one thing every French Bulldog owner learns fast, it's that Frenchies and heat don't mix. George starts panting if the temperature hits 23°C, and anything above 28°C is a genuine health risk.
 
 French Bulldogs are brachycephalic, their shortened airways make it much harder for them to cool themselves through panting (which is how dogs regulate body temperature). This makes them extremely vulnerable to heatstroke, which can be fatal.
@@ -51,7 +53,7 @@ The Ruffwear Swamp Cooler is the cooling vest I trust most with George's safety.
 
 **Price:** ~€40-55
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B01MZ9D28N?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B01MZ9D28N?tag=focushack-20)
 
 ---
 
@@ -72,7 +74,7 @@ Finnish brand Hurtta knows extreme weather. Their cooling vest holds more water 
 
 **Price:** ~€45-60
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B08TYKCX5Y?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B08TYKCX5Y?tag=focushack-20)
 
 ---
 
@@ -94,7 +96,7 @@ The Trixie cooling vest does the basics well at a fraction of the price. Soak it
 
 **Price:** ~€15-20
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B07DWV8S5V?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B07DWV8S5V?tag=focushack-20)
 
 ---
 
@@ -115,7 +117,7 @@ Sometimes you don't need a full vest. For quick outings, car rides, or mild warm
 
 **Price:** ~€10-15
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0C68LQXSP?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B0C68LQXSP?tag=focushack-20)
 
 ---
 
@@ -136,7 +138,7 @@ For humid climates where evaporative cooling doesn't work well, phase-change tec
 
 **Price:** ~€35-50
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B08L6P3PBJ?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B08L6P3PBJ?tag=focushack-20)
 
 ---
 

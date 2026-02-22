@@ -12,6 +12,8 @@ cover:
   caption: "George in his natural habitat, under a blanket"
 ---
 
+This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you.
+
 French Bulldogs spend an impressive amount of their lives sleeping. George clocks about 14 hours a day, which means his bed is arguably the most important piece of gear he owns. And yet, most "best dog bed" lists don't account for the specific needs of Frenchies.
 
 Here's the thing: French Bulldogs are prone to joint problems (hip dysplasia, patellar luxation, IVDD), they overheat easily, and they love to curl up against something. A generic dog bed isn't going to cut it.
@@ -46,7 +48,7 @@ This is George's daily driver and has been for over a year. The egg-crate orthop
 
 **Price:** ~€30-40
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B095JZL5SR?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B095JZL5SR?tag=focushack-20)
 
 ---
 
@@ -65,7 +67,7 @@ If budget isn't your primary concern, the PetFusion is the best orthopedic bed I
 
 **Price:** ~€80-110
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B017J9KKJ0?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B017J9KKJ0?tag=focushack-20)
 
 ---
 
@@ -84,7 +86,7 @@ When temperatures climb above 22°C, George turns into a dramatically overheatin
 
 **Price:** ~€20-30
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B08M3Z28NL?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B08M3Z28NL?tag=focushack-20)
 
 ---
 
@@ -104,7 +106,7 @@ This German-made bed is essentially a Frenchie fortress. High bolsters on all si
 
 **Price:** ~€50-70
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B071CYTLPQ?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B071CYTLPQ?tag=focushack-20)
 
 ---
 
@@ -124,7 +126,7 @@ A completely different approach: the Coolaroo is an elevated cot-style bed that 
 
 **Price:** ~€25-40
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B07VKPQZX8?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B07VKPQZX8?tag=focushack-20)
 
 ---
 
@@ -143,7 +145,7 @@ If you want orthopedic support without breaking the bank, the Furhaven delivers.
 
 **Price:** ~€25-35
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B07VTRKYLX?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B07VTRKYLX?tag=focushack-20)
 
 ---
 
@@ -162,7 +164,7 @@ French Bulldogs and allergies go together like peanut butter and jelly (unfortun
 
 **Price:** ~€40-55
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B00E62IR12?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B00E62IR12?tag=focushack-20)
 
 ---
 

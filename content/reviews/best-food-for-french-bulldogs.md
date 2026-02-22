@@ -12,6 +12,8 @@ cover:
   caption: "George enjoying his favourite natural chew"
 ---
 
+This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you.
+
 Feeding a French Bulldog is more complicated than it should be. George has a sensitive stomach, skin allergies triggered by certain proteins, and the Frenchie tendency to inhale food so fast he makes himself sick. Finding the right food took months of trial and error, and a few vet bills.
 
 If your Frenchie has gas that clears a room, itchy skin, ear infections, or chronic loose stools, the food is almost always a factor. Here are the 7 best foods for French Bulldogs, based on real testing and veterinary guidance.
@@ -44,7 +46,7 @@ Say what you will about Royal Canin's pricing, their breed-specific formulas are
 
 **Price:** ~€50-65 for 9kg
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B009H3WL7Q?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B009H3WL7Q?tag=focushack-20)
 
 ---
 
@@ -64,7 +66,7 @@ When George's skin allergies flared up, our vet recommended a single-protein die
 
 **Price:** ~€55-70 for 6kg
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B01N4PT3RK?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B01N4PT3RK?tag=focushack-20)
 
 ---
 
@@ -84,7 +86,7 @@ If your Frenchie's primary issue is digestive (gas, soft stools, vomiting), Well
 
 **Price:** ~€45-60 for 4kg
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B08HB37V6Q?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B08HB37V6Q?tag=focushack-20)
 
 ---
 
@@ -104,7 +106,7 @@ Fish-based diets are often the solution for Frenchies with chicken or beef aller
 
 **Price:** ~€40-55 for 5.6kg
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B08691HXQ1?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B08691HXQ1?tag=focushack-20)
 
 ---
 
@@ -124,7 +126,7 @@ Hill's is the brand most frequently recommended by vets, and for good reason, th
 
 **Price:** ~€50-65 for 5.4kg
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B084FDC21P?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B084FDC21P?tag=focushack-20)
 
 ---
 
@@ -144,7 +146,7 @@ If your Frenchie tolerates it (not all sensitive stomachs can), Orijen is arguab
 
 **Price:** ~€65-85 for 6kg
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B06XFG1823?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B06XFG1823?tag=focushack-20)
 
 ---
 
@@ -164,7 +166,7 @@ For owners who want a natural, human-grade food with transparent sourcing, Lily'
 
 **Price:** ~€45-55 for 7kg
 
-👉 [Check price on Amazon.de](https://www.amazon.de/dp/B0757T151C?tag=focushack-21)
+👉 [Check price on Amazon](https://www.amazon.com/dp/B0757T151C?tag=focushack-20)
 
 ---
 
